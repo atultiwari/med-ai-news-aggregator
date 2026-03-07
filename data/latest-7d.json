@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-07T06:23:35.207Z",
+  "generated_at": "2026-03-07T08:16:09.760Z",
   "window_hours": 168,
-  "total_items": 938,
-  "total_items_ai_raw": 1175,
-  "total_items_raw": 1540,
-  "total_items_all_mode": 1295,
+  "total_items": 943,
+  "total_items_ai_raw": 1180,
+  "total_items_raw": 1551,
+  "total_items_all_mode": 1306,
   "topic_filter": "ai_tech_robotics",
-  "archive_total": 3920,
+  "archive_total": 3931,
   "site_count": 4,
   "source_count": 54,
   "site_stats": [
@@ -19,14 +19,14 @@
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
-      "count": 120,
-      "raw_count": 428
+      "count": 124,
+      "raw_count": 438
     },
     {
       "site_id": "youtube",
       "site_name": "YouTube",
-      "count": 9,
-      "raw_count": 21
+      "count": 10,
+      "raw_count": 22
     },
     {
       "site_id": "aihubtoday",
@@ -37,6 +37,66 @@
   ],
   "items": [
     {
+      "id": "e86c96fd9dbbf553f85ce1674832d6c20ea67c5b",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Hacker News",
+      "title": "AI Error May Have Contributed to Girl's School Bombing in Iran",
+      "url": "https://thisweekinworcester.com/exclusive-ai-error-girls-school-bombing",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T08:16:09.760Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "AI Error May Have Contributed to Girl's School Bombing in Iran",
+      "title_en": "AI Error May Have Contributed to Girl's School Bombing in Iran",
+      "title_zh": "人工智能错误可能导致伊朗女子学校爆炸",
+      "title_bilingual": "人工智能错误可能导致伊朗女子学校爆炸 / AI Error May Have Contributed to Girl's School Bombing in Iran"
+    },
+    {
+      "id": "df3d0259a53a8e6f452d719bc573f4659b5b2e23",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "The Next Web",
+      "title": "Anthropic launches marketplace for Claude-powered software",
+      "url": "https://thenextweb.com/news/anthropic-marketplace-claude-enterprise-software",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T08:16:09.760Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Anthropic launches marketplace for Claude-powered software",
+      "title_en": "Anthropic launches marketplace for Claude-powered software",
+      "title_zh": "Anthropic 推出 Claude 支持的软件市场",
+      "title_bilingual": "Anthropic 推出 Claude 支持的软件市场 / Anthropic launches marketplace for Claude-powered software"
+    },
+    {
+      "id": "ccaa43de426802f3337c68650c8cfbaf23ec571d",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)",
+      "url": "http://www.techmeme.com/260307/p5",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T08:16:09.760Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)",
+      "title_en": "A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)",
+      "title_zh": "看看 Kalshi 首席执行官 Tarek Mansour 和 Polymarket 首席执行官 Shayne Coplan 之间的竞争，他们对于预测市场如何发展有着相互竞争的愿景（Bobby Allyn/NPR）",
+      "title_bilingual": "看看 Kalshi 首席执行官 Tarek Mansour 和 Polymarket 首席执行官 Shayne Coplan 之间的竞争，他们对于预测市场如何发展有着相互竞争的愿景（Bobby Allyn/NPR） / A look at the rivalry between Kalshi CEO Tarek Mansour and Polymarket CEO Shayne Coplan, who have competing visions for how prediction markets should grow (Bobby Allyn/NPR)"
+    },
+    {
+      "id": "b09492457a341a3c82efdb75d5c351757250a3b1",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "China's smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware (Nikkei Asia)",
+      "url": "http://www.techmeme.com/260307/p3",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T08:16:09.760Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "China's smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware (Nikkei Asia)",
+      "title_en": "China's smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware (Nikkei Asia)",
+      "title_zh": "随着存储芯片紧缺的加剧，中国智能手机市场正经历最大幅度的涨价之一；魅族宣布将暂停开发新的移动硬件（日经亚洲）",
+      "title_bilingual": "随着存储芯片紧缺的加剧，中国智能手机市场正经历最大幅度的涨价之一；魅族宣布将暂停开发新的移动硬件（日经亚洲） / China's smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware (Nikkei Asia)"
+    },
+    {
       "id": "0bc84c6c38c7fc10f543dc2a5cf5eb366a0d6399",
       "site_id": "techurls",
       "site_name": "TechURLs",
@@ -45,11 +105,26 @@
       "url": "https://www.androidpolice.com/google-just-made-gemini-for-home-much-faster",
       "published_at": null,
       "first_seen_at": "2026-03-07T06:23:35.207Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Google just made Gemini for Home much faster",
       "title_en": "Google just made Gemini for Home much faster",
       "title_zh": "Google 刚刚让 Gemini for Home 变得更快",
       "title_bilingual": "Google 刚刚让 Gemini for Home 变得更快 / Google just made Gemini for Home much faster"
+    },
+    {
+      "id": "bdf23eed78e60f11ce77f81fbec930b2b58ca2c1",
+      "site_id": "youtube",
+      "site_name": "YouTube",
+      "source": "20VC",
+      "title": "\"Claude is like inverse Fortnite\"",
+      "url": "https://www.youtube.com/shorts/EldHVYWubOI",
+      "published_at": "2026-03-07T05:00:22Z",
+      "first_seen_at": "2026-03-07T08:16:09.760Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "\"Claude is like inverse Fortnite\"",
+      "title_en": "\"Claude is like inverse Fortnite\"",
+      "title_zh": "“克劳德就像逆版《堡垒之夜》”",
+      "title_bilingual": "“克劳德就像逆版《堡垒之夜》” / \"Claude is like inverse Fortnite\""
     },
     {
       "id": "46be09a4e9d580bfceff0daebf5bba65575243d3",
@@ -60,7 +135,7 @@
       "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
       "published_at": null,
       "first_seen_at": "2026-03-07T04:08:19.754Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
       "title_en": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
       "title_zh": "DJI 将向意外黑掉 7,000 个 Romo robovac 的人支付 3 万美元",
@@ -75,7 +150,7 @@
       "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
       "published_at": null,
       "first_seen_at": "2026-03-07T02:28:59.314Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
       "title_en": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
       "title_zh": "LLM 不会编写正确的代码。它编写了合理的代码",
@@ -90,7 +165,7 @@
       "url": "https://news.ycombinator.com/item?id=47282777",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "I'm 60 years old. Claude Code has ignited a passion again",
       "title_en": "I'm 60 years old. Claude Code has ignited a passion again",
       "title_zh": "我今年60岁了。克劳德·科德再次点燃激情",
@@ -105,7 +180,7 @@
       "url": "https://www.businessinsider.com/sergey-brin-uses-ai-management-leadership-summaries-google-gemini-2025-5",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Sergey Brin says management is the 'easiest thing to do with AI'",
       "title_en": "Sergey Brin says management is the 'easiest thing to do with AI'",
       "title_zh": "谢尔盖·布林表示管理是“利用人工智能做的最简单的事情”",
@@ -120,7 +195,7 @@
       "url": "https://www.engadget.com/big-tech/house-passes-budget-bill-that-inexplicably-bans-state-ai-regulations-for-ten-years-184936210.html",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "House passes budget bill that inexplicably bans state AI regulations for ten years",
       "title_en": "House passes budget bill that inexplicably bans state AI regulations for ten years",
       "title_zh": "众议院通过预算法案，莫名其妙地禁止国家人工智能法规十年",
@@ -135,7 +210,7 @@
       "url": "https://www.wired.com/story/deveillance-spectre-i",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won't Work",
       "title_en": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won't Work",
       "title_zh": "该干扰器想要阻止始终监听的人工智能可穿戴设备。可能行不通",
@@ -150,7 +225,7 @@
       "url": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "When AI Companies Go to War, Safety Gets Left Behind",
       "title_en": "When AI Companies Go to War, Safety Gets Left Behind",
       "title_zh": "当人工智能公司开战时，安全性就被抛在了后面",
@@ -165,7 +240,7 @@
       "url": "https://www.wired.com/story/sleep-apnea-women-detection-treatment",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Sleep Apnea Often Goes Undetected in Women. That’s Starting to Change",
       "title_en": "Sleep Apnea Often Goes Undetected in Women. That’s Starting to Change",
       "title_zh": "女性睡眠呼吸暂停常常未被发现。这种情况开始改变",
@@ -180,7 +255,7 @@
       "url": "https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The War on Iran Puts Global Chip Supplies and AI Expansion at Risk",
       "title_en": "The War on Iran Puts Global Chip Supplies and AI Expansion at Risk",
       "title_zh": "伊朗战争使全球芯片供应和人工智能扩张面临风险",
@@ -195,7 +270,7 @@
       "url": "https://tech.slashdot.org/story/26/03/06/1629255/iran-war-provides-a-large-scale-test-for-ai-assisted-warfare",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Iran War Provides a Large-Scale Test For AI-Assisted Warfare",
       "title_en": "Iran War Provides a Large-Scale Test For AI-Assisted Warfare",
       "title_zh": "伊朗战争为人工智能辅助战争提供大规模考验",
@@ -210,7 +285,7 @@
       "url": "https://developers.slashdot.org/story/26/03/06/1614252/python-chardet-package-replaced-with-llm-generated-clone-re-licensed",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Python 'Chardet' Package Replaced With LLM-Generated Clone, Re-Licensed",
       "title_en": "Python 'Chardet' Package Replaced With LLM-Generated Clone, Re-Licensed",
       "title_zh": "Python“Chardet”包替换为 LLM 生成的克隆，并重新获得许可",
@@ -225,7 +300,7 @@
       "url": "https://yro.slashdot.org/story/26/03/06/1557234/ai-startup-sues-ex-ceo-saying-he-took-41gb-of-email-lied-on-resume",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "AI Startup Sues Ex-CEO Saying He Took 41GB of Email, Lied On Resume",
       "title_en": "AI Startup Sues Ex-CEO Saying He Took 41GB of Email, Lied On Resume",
       "title_zh": "AI 初创公司起诉前首席执行官，称他拿走了 41GB 电子邮件，并在简历中撒谎",
@@ -240,7 +315,7 @@
       "url": "https://news.slashdot.org/story/26/03/06/020239/ai-translations-are-adding-hallucinations-to-wikipedia-articles",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "AI Translations Are Adding 'Hallucinations' To Wikipedia Articles",
       "title_en": "AI Translations Are Adding 'Hallucinations' To Wikipedia Articles",
       "title_zh": "人工智能翻译正在为维基百科文章添加“幻觉”",
@@ -255,7 +330,7 @@
       "url": "https://digg.com/tech/link/at-3-am-i-turned-to-ai-for-comfort-that-was-my-first-mistake-the-walrus",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "'At 3 AM, I Turned To AI For Comfort. That Was My First Mistake'",
       "title_en": "'At 3 AM, I Turned To AI For Comfort. That Was My First Mistake'",
       "title_zh": "“凌晨 3 点，我转向人工智能寻求安慰。这是我的第一个错误”",
@@ -270,7 +345,7 @@
       "url": "https://digg.com/tech/link/as-facebook-abandons-fact-checking-its-also-offering-bonuses-for-viral-content",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "As Facebook Abandons Fact-Checking, It’s Also Offering Bonuses For Viral Content",
       "title_en": "As Facebook Abandons Fact-Checking, It’s Also Offering Bonuses For Viral Content",
       "title_zh": "Facebook 放弃事实核查，同时为病毒式内容提供奖励",
@@ -285,7 +360,7 @@
       "url": "https://digg.com/tech/link/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Microsoft Study Finds AI Makes Human Cognition 'Atrophied and Unprepared'",
       "title_en": "Microsoft Study Finds AI Makes Human Cognition 'Atrophied and Unprepared'",
       "title_zh": "微软研究发现人工智能使人类认知“萎缩且毫无准备”",
@@ -300,7 +375,7 @@
       "url": "https://digg.com/tech/link/ai-generated-slop-is-already-in-your-public-library",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "AI-Generated Slop Is Already In Your Public Library",
       "title_en": "AI-Generated Slop Is Already In Your Public Library",
       "title_zh": "人工智能生成的污水已经在您的公共图书馆中",
@@ -315,7 +390,7 @@
       "url": "https://digg.com/tech/link/ai-company-asks-job-applicants-not-to-use-ai-in-job-applications",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "AI Company Asks Job Applicants Not To Use AI In Job Applications",
       "title_en": "AI Company Asks Job Applicants Not To Use AI In Job Applications",
       "title_zh": "人工智能公司要求求职者不要在求职申请中使用人工智能",
@@ -330,7 +405,7 @@
       "url": "https://digg.com/tech/link/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "OpenAI Furious DeepSeek Might Have Stolen All The Data OpenAI Stole From Us",
       "title_en": "OpenAI Furious DeepSeek Might Have Stolen All The Data OpenAI Stole From Us",
       "title_zh": "OpenAI 愤怒的 DeepSeek 可能窃取了 OpenAI 从我们这里窃取的所有数据",
@@ -345,7 +420,7 @@
       "url": "https://digg.com/tech/link/deepfake-porn-trauma",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Faking It: Deepfake Porn Site's Link To Tech Companies",
       "title_en": "Faking It: Deepfake Porn Site's Link To Tech Companies",
       "title_zh": "伪造：Deepfake 色情网站与科技公司的链接",
@@ -360,7 +435,7 @@
       "url": "https://digg.com/tech/link/chinas-deepseek-ai",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Shockingly Powerful Chinese AI Company Is Giving Wall Street A Panic",
       "title_en": "Shockingly Powerful Chinese AI Company Is Giving Wall Street A Panic",
       "title_zh": "实力惊人的中国人工智能公司让华尔街陷入恐慌",
@@ -375,7 +450,7 @@
       "url": "https://digg.com/tech/link/developer-creates-infinite-maze-that-traps-ai-training-bots",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Developer Creates Infinite Maze That Traps AI Training Bots",
       "title_en": "Developer Creates Infinite Maze That Traps AI Training Bots",
       "title_zh": "开发者创建无限迷宫来困住人工智能训练机器人",
@@ -390,7 +465,7 @@
       "url": "https://digg.com/tech/link/medical-device-company-tells-hospitals-theyre-no-longer-allowed-to-fix-machine-that-costs-six-figures",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Medical Device Company Tells Hospitals They're No Longer Allowed To Fix Machine That Costs Six Figures",
       "title_en": "Medical Device Company Tells Hospitals They're No Longer Allowed To Fix Machine That Costs Six Figures",
       "title_zh": "医疗器械公司告诉医院他们不再被允许修理价值六位数的机器",
@@ -405,7 +480,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Grammarly is using our identities without permission",
       "title_en": "Grammarly is using our identities without permission",
       "title_zh": "Grammarly 未经许可使用我们的身份",
@@ -420,7 +495,7 @@
       "url": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
       "title_en": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
       "title_zh": "Birdbuddy 的人工智能蜂鸟喂食器达到了迄今为​​止最优惠的价格",
@@ -435,7 +510,7 @@
       "url": "https://www.theverge.com/games/889954/roblox-ai-real-time-chat-rephrasing",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Roblox is censoring chats with AI",
       "title_en": "Roblox is censoring chats with AI",
       "title_zh": "Roblox 正在用人工智能审查聊天记录",
@@ -450,7 +525,7 @@
       "url": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
       "title_en": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
       "title_zh": "据报道，Meta 的人工智能眼镜向肯尼亚的人类审阅者发送敏感镜头",
@@ -465,7 +540,7 @@
       "url": "https://medium.com/data-science-collective/how-web-search-works-in-ai-chats-727ff4328980",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "How Web Search Inside AI Chatbots Works",
       "title_en": "How Web Search Inside AI Chatbots Works",
       "title_zh": "人工智能聊天机器人内部的网络搜索如何工作",
@@ -480,7 +555,7 @@
       "url": "https://medium.com/ai-advances/why-do-llms-hallucinate-0664df4afc8e",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Why Do LLMs Hallucinate?",
       "title_en": "Why Do LLMs Hallucinate?",
       "title_zh": "为什么法学硕士会产生幻觉？",
@@ -495,7 +570,7 @@
       "url": "https://medium.com/predict/anthropic-strikes-back-with-claude-opus-4-5-58d530e2ddf1",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic strikes back with Claude Opus 4.5",
       "title_en": "Anthropic strikes back with Claude Opus 4.5",
       "title_zh": "Anthropic 推出 Claude Opus 4.5 进行反击",
@@ -510,7 +585,7 @@
       "url": "https://medium.com/towards-artificial-intelligence/hierarchical-reasoning-what-happens-when-ai-stops-thinking-out-loud-e25676afeecf",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Hierarchical Reasoning: What Happens When AI Stops Thinking Out Loud",
       "title_en": "Hierarchical Reasoning: What Happens When AI Stops Thinking Out Loud",
       "title_zh": "分层推理：当人工智能停止大声思考时会发生什么",
@@ -525,7 +600,7 @@
       "url": "https://medium.com/genxy/facebooks-dating-ai-tried-to-send-me-on-a-date-with-a-man-who-didn-t-exist-b9b1e6a048f5",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Facebook’s Dating AI Tried to Send Me on a Date With a Man Who Didn’t Exist",
       "title_en": "Facebook’s Dating AI Tried to Send Me on a Date With a Man Who Didn’t Exist",
       "title_zh": "Facebook 的约会 AI 试图让我与一个不存在的男人约会",
@@ -540,7 +615,7 @@
       "url": "https://medium.com/@ignacio.de.gregorio.noblejas/deepseeks-gold-medal-china-s-answer-to-openai-a54401284f69",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "DeepSeek’s Gold Medal, China’s Answer to OpenAI",
       "title_en": "DeepSeek’s Gold Medal, China’s Answer to OpenAI",
       "title_zh": "DeepSeek的金牌，中国对OpenAI的回答",
@@ -555,7 +630,7 @@
       "url": "https://medium.com/@wlockett/the-godfather-of-ai-just-called-out-the-entire-ai-industry-e8d48ed1d522",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The Godfather Of AI Just Called Out The Entire AI Industry",
       "title_en": "The Godfather Of AI Just Called Out The Entire AI Industry",
       "title_zh": "人工智能教父刚刚召集了整个人工智能行业",
@@ -570,7 +645,7 @@
       "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
       "title_en": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
       "title_zh": "微软、谷歌和亚马逊表示 Anthropic Claude 仍可供非国防客户使用",
@@ -585,7 +660,7 @@
       "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
       "title_en": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
       "title_zh": "Anthropic 的 Claude 在两周内发现 Firefox 中的 22 个漏洞",
@@ -600,7 +675,7 @@
       "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
       "title_en": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
       "title_zh": "Anthropic 与五角大楼的交易对于追逐联邦合同的初创公司来说是一个警示故事",
@@ -615,7 +690,7 @@
       "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Claude’s consumer growth surge continues after Pentagon deal debacle",
       "title_en": "Claude’s consumer growth surge continues after Pentagon deal debacle",
       "title_zh": "五角大楼交易失败后，克劳德的消费者增长仍在继续",
@@ -630,7 +705,7 @@
       "url": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "India PC shipments surpass pandemic peak as first-time users upgrade",
       "title_en": "India PC shipments surpass pandemic peak as first-time users upgrade",
       "title_zh": "随着首次用户升级，印度个人电脑出货量超过疫情高峰",
@@ -645,7 +720,7 @@
       "url": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
       "title_en": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
       "title_zh": "City Detect 利用人工智能帮助城市保持安全和清洁，筹集了 1300 万美元的 A 轮融资",
@@ -660,7 +735,7 @@
       "url": "https://mashable.com/article/anthropic-supply-chain-risk-ceo-statement",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic challenges Department of War designation as AI dispute escalates",
       "title_en": "Anthropic challenges Department of War designation as AI dispute escalates",
       "title_zh": "随着人工智能争议升级，人择挑战战争部的指定",
@@ -675,7 +750,7 @@
       "url": "https://mashable.com/article/ai-sexual-emerging-orientation",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Some AI users are starting to consider themselves AI-sexual",
       "title_en": "Some AI users are starting to consider themselves AI-sexual",
       "title_zh": "一些人工智能用户开始认为自己是人工智能性的",
@@ -690,26 +765,11 @@
       "url": "https://mashable.com/article/google-workspace-cli-openclaw-ai-agentic-assistants",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Google opens the door to OpenClaw and other AI agents with new release",
       "title_en": "Google opens the door to OpenClaw and other AI agents with new release",
       "title_zh": "谷歌发布新版本，为 OpenClaw 和其他人工智能代理打开大门",
       "title_bilingual": "谷歌发布新版本，为 OpenClaw 和其他人工智能代理打开大门 / Google opens the door to OpenClaw and other AI agents with new release"
-    },
-    {
-      "id": "727367305419312a1d58dc4ed03a5bb7a32ffe47",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Mashable",
-      "title": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
-      "url": "https://mashable.com/article/gpt-5-4-release-improvements-changes",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
-      "title_original": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
-      "title_en": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
-      "title_zh": "GPT 5.4 登陆 ChatGPT：需要了解的 5 项改进",
-      "title_bilingual": "GPT 5.4 登陆 ChatGPT：需要了解的 5 项改进 / GPT 5.4 arrives on ChatGPT: 5 improvements to know"
     },
     {
       "id": "c46e23ad3cd8873a1da88dd2b3deeb6854e6ba3f",
@@ -720,7 +780,7 @@
       "url": "https://www.engadget.com/ai/uk-government-delays-ai-copyright-rules-amid-artist-outcry-113937154.html?src=rss",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "UK government delays AI copyright rules amid artist outcry",
       "title_en": "UK government delays AI copyright rules amid artist outcry",
       "title_zh": "英国政府因艺术家抗议推迟人工智能版权规则",
@@ -735,7 +795,7 @@
       "url": "https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html?src=rss",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic says it will challenge Defense Department's supply chain risk designation in court",
       "title_en": "Anthropic says it will challenge Defense Department's supply chain risk designation in court",
       "title_zh": "Anthropic 表示将在法庭上质疑国防部的供应链风险认定",
@@ -750,7 +810,7 @@
       "url": "https://thenextweb.com/news/taxdown-secures-e4m-financing-to-expand-ai-tax-platform",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "TaxDown secures €4M financing to expand AI tax platform",
       "title_en": "TaxDown secures €4M financing to expand AI tax platform",
       "title_zh": "TaxDown 获得 400 万欧元融资以扩展人工智能税务平台",
@@ -765,7 +825,7 @@
       "url": "https://thenextweb.com/news/dealflowagent-ai-sme-ma-long-journey-ventures",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "DealFlowAgent raises $750,000 to automate small business M&A",
       "title_en": "DealFlowAgent raises $750,000 to automate small business M&A",
       "title_zh": "DealFlowAgent 筹集 750,000 美元以实现小企业并购自动化",
@@ -780,7 +840,7 @@
       "url": "https://thenextweb.com/news/netflix-buys-ben-afflecks-ai-filmmaking-startup",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Netflix buys Ben Affleck’s AI filmmaking startup",
       "title_en": "Netflix buys Ben Affleck’s AI filmmaking startup",
       "title_zh": "Netflix 收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制作初创公司",
@@ -795,7 +855,7 @@
       "url": "https://thenextweb.com/news/pentagon-labels-anthropic-a-supply-chain-risk",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Pentagon labels Anthropic a supply-chain risk",
       "title_en": "Pentagon labels Anthropic a supply-chain risk",
       "title_zh": "五角大楼将 Anthropic 列为供应链风险",
@@ -810,7 +870,7 @@
       "url": "https://thenextweb.com/news/oslos-unleash-raises-35m-to-govern-ai-generated-code-as-european-enterprise-bets-grow-bolder",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Oslo’s Unleash raises $35M to govern AI-generated code as European enterprise bets grow bolder",
       "title_en": "Oslo’s Unleash raises $35M to govern AI-generated code as European enterprise bets grow bolder",
       "title_zh": "随着欧洲企业的赌注变得越来越大胆，奥斯陆的 Unleash 筹集了 3500 万美元来管理人工智能生成的代码",
@@ -825,7 +885,7 @@
       "url": "https://thenextweb.com/news/openai-gpt-54-launch-computer-use-benchmarks",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "OpenAI’s GPT-5.4 sets new records on professional benchmarks",
       "title_en": "OpenAI’s GPT-5.4 sets new records on professional benchmarks",
       "title_zh": "OpenAI 的 GPT-5.4 创下专业基准新纪录",
@@ -840,7 +900,7 @@
       "url": "https://thenextweb.com/news/swedish-data-startup-validio-raises-30m-to-fix-the-ai-readiness-problem-nobody-talks-about",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Swedish data startup Validio raises $30M to fix the AI readiness problem nobody talks about",
       "title_en": "Swedish data startup Validio raises $30M to fix the AI readiness problem nobody talks about",
       "title_zh": "瑞典数据初创公司 Validio 筹集了 3000 万美元，以解决没人谈论的人工智能准备问题",
@@ -870,7 +930,7 @@
       "url": "https://www.macrumors.com/2026/03/06/iphone-17e-benchmarks",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "iPhone 17e Benchmarks Reveal A19 Chip Performance With a Tiny Catch",
       "title_en": "iPhone 17e Benchmarks Reveal A19 Chip Performance With a Tiny Catch",
       "title_zh": "iPhone 17e 基准测试揭示了 A19 芯片的性能",
@@ -885,7 +945,7 @@
       "url": "https://www.macrumors.com/2026/03/06/macbook-air-m5-chip-benchmarks",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Here's How Much Faster MacBook Air Gets With M5 Chip vs. M4 Chip",
       "title_en": "Here's How Much Faster MacBook Air Gets With M5 Chip vs. M4 Chip",
       "title_zh": "以下是配备 M5 芯片的 MacBook Air 与配备 M4 芯片的 MacBook Air 相比，速度快了多少",
@@ -900,7 +960,7 @@
       "url": "https://www.macrumors.com/2026/03/05/m5-max-geekbench-benchmarks",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Apple's M5 Max Chip Achieves a New Record in First Benchmark Result",
       "title_en": "Apple's M5 Max Chip Achieves a New Record in First Benchmark Result",
       "title_zh": "苹果 M5 Max 芯片在首次基准测试中创下新纪录",
@@ -915,7 +975,7 @@
       "url": "https://www.macrumors.com/2026/03/05/apple-seeds-revised-ios-26-4-beta-3",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Apple Seeds Revised Third Betas of iOS 26.4 and iPadOS 26.4 to Developers, New Public Betas",
       "title_en": "Apple Seeds Revised Third Betas of iOS 26.4 and iPadOS 26.4 to Developers, New Public Betas",
       "title_zh": "Apple Seeds 向开发者发布了修订后的 iOS 26.4 和 iPadOS 26.4 第三个 Beta 版、新的公开 Beta 版",
@@ -930,7 +990,7 @@
       "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Google's new command line tool can plug OpenClaw into your Workspace data",
       "title_en": "Google's new command line tool can plug OpenClaw into your Workspace data",
       "title_zh": "Google 的新命令行工具可以将 OpenClaw 插入您的工作区数据",
@@ -945,7 +1005,7 @@
       "url": "https://www.vox.com/technology/481444/ai-chatgpt-teen-boys-teenagers-dating-relationships",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
       "title_en": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
       "title_zh": "十几岁的男孩正在使用 ChatGPT 作为他们的僚机。可能会出什么问题？",
@@ -960,7 +1020,7 @@
       "url": "https://www.vox.com/the-highlight/480155/will-ai-replace-your-job",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "4 reasons why AI (probably) won’t take your job",
       "title_en": "4 reasons why AI (probably) won’t take your job",
       "title_zh": "人工智能（可能）不会取代你工作的 4 个原因",
@@ -975,7 +1035,7 @@
       "url": "https://www.vox.com/podcasts/481567/ai-claude-chatgpt-iran-war-pentagon-autonomous-weapons",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "How the US might be using AI in Iran",
       "title_en": "How the US might be using AI in Iran",
       "title_zh": "美国可能如何在伊朗使用人工智能",
@@ -990,7 +1050,7 @@
       "url": "https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The AI industry’s civil war",
       "title_en": "The AI industry’s civil war",
       "title_zh": "AI行业的内战",
@@ -1005,7 +1065,7 @@
       "url": "https://www.vox.com/future-perfect/481322/pentagon-anthropic-openai-surveillance-china",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The one question everyone should be asking after OpenAI’s deal with the Pentagon",
       "title_en": "The one question everyone should be asking after OpenAI’s deal with the Pentagon",
       "title_zh": "OpenAI 与五角大楼达成协议后每个人都应该问的一个问题",
@@ -1020,7 +1080,7 @@
       "url": "https://www.vox.com/politics/480911/nuclear-ai-pentagon-anthropic",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The nuclear nightmare at the heart of the Trump-Anthropic fight",
       "title_en": "The nuclear nightmare at the heart of the Trump-Anthropic fight",
       "title_zh": "特朗普与人类之争的核心核噩梦",
@@ -1035,7 +1095,7 @@
       "url": "https://www.vox.com/politics/480445/ai-recession-citrini-memo-wall-street",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Why Wall Street panicked over a sci-fi blog post",
       "title_en": "Why Wall Street panicked over a sci-fi blog post",
       "title_zh": "为什么华尔街对一篇科幻博客文章感到恐慌",
@@ -1050,7 +1110,7 @@
       "url": "https://www.vox.com/life/480317/trump-taxes-chatgpt-claude-turbotax",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "How to use AI for your taxes — and how not to use it",
       "title_en": "How to use AI for your taxes — and how not to use it",
       "title_zh": "如何使用人工智能来报税——以及如何不使用它",
@@ -1065,7 +1125,7 @@
       "url": "https://www.vox.com/culture/479724/admin-nights-vision-boards-meal-prep-parties-productivity-wellness",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The party-fication of productivity",
       "title_en": "The party-fication of productivity",
       "title_zh": "生产力的政党化",
@@ -1080,7 +1140,7 @@
       "url": "https://www.vox.com/future-perfect/479200/ai-romance-scams-valentines-day",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Is it love? Or is it an AI romance scam?",
       "title_en": "Is it love? Or is it an AI romance scam?",
       "title_zh": "是爱吗？还是AI恋爱骗局？",
@@ -1095,7 +1155,7 @@
       "url": "https://www.vox.com/technology/479056/what-viral-ai-something-big-is-happening-gets-wrong",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "What the latest viral AI apocalypse warning gets wrong",
       "title_en": "What the latest viral AI apocalypse warning gets wrong",
       "title_zh": "最新的病毒式人工智能启示录警告出了什么问题",
@@ -1110,7 +1170,7 @@
       "url": "https://www.makeuseof.com/chatgpt-trying-to-win-back-the-users-it-lost-by-rewriting-its-pentagon-deal",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "ChatGPT is trying to win back the users it just lost by rewriting its Pentagon deal",
       "title_en": "ChatGPT is trying to win back the users it just lost by rewriting its Pentagon deal",
       "title_zh": "ChatGPT 正试图通过改写与五角大楼的交易来赢回刚刚失去的用户",
@@ -1125,7 +1185,7 @@
       "url": "https://www.makeuseof.com/claude-overtakes-chatgpt-as-top-free-app-amid-ai-ethics-backlash",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "QuitGPT trend grows as users ditch ChatGPT for Claude",
       "title_en": "QuitGPT trend grows as users ditch ChatGPT for Claude",
       "title_zh": "随着用户放弃 ChatGPT 转而使用 Claude，退出 GPT 的趋势不断增长",
@@ -1140,7 +1200,7 @@
       "url": "https://www.makeuseof.com/trump-bans-anthropic-from-government-use",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Trump bans Anthropic from government use after company refuses to lift AI safeguards",
       "title_en": "Trump bans Anthropic from government use after company refuses to lift AI safeguards",
       "title_zh": "Anthropic 拒绝解除人工智能保障措施后，特朗普禁止政府使用",
@@ -1155,7 +1215,7 @@
       "url": "http://www.techmeme.com/260306/p32",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "A draft guidance from the US GSA tightens rules for civilian AI contracts to require AI companies to allow \"any lawful\" use by the government of their models (Financial Times)",
       "title_en": "A draft guidance from the US GSA tightens rules for civilian AI contracts to require AI companies to allow \"any lawful\" use by the government of their models (Financial Times)",
       "title_zh": "美国总务管理局的一份指南草案收紧了民用人工智能合同的规则，要求人工智能公司允许政府“任何合法”使用其模型（金融时报）",
@@ -1170,7 +1230,7 @@
       "url": "http://www.techmeme.com/260306/p30",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The Trump administration debuts its cyber strategy, outlining priorities including promoting offense operations, securing AI tech, and streamlining regulations (Tim Starks/CyberScoop)",
       "title_en": "The Trump administration debuts its cyber strategy, outlining priorities including promoting offense operations, securing AI tech, and streamlining regulations (Tim Starks/CyberScoop)",
       "title_zh": "特朗普政府首次推出网络战略，概述了优先事项，包括促进进攻行动、保护人工智能技术和简化法规（Tim Starks/Cyber​​Scoop）",
@@ -1185,7 +1245,7 @@
       "url": "http://www.techmeme.com/260306/p28",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force (Noah Smith/Noahpinion)",
       "title_en": "The Pentagon is right in trying to coerce Anthropic as AI may become a superweapon and nation-states must have a monopoly on the use of force (Noah Smith/Noahpinion)",
       "title_zh": "五角大楼试图胁迫人类是正确的，因为人工智能可能成为超级武器，民族国家必须垄断武力的使用（Noah Smith/Noahpinion）",
@@ -1200,7 +1260,7 @@
       "url": "http://www.techmeme.com/260306/p27",
       "published_at": null,
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing (Bloomberg)",
       "title_en": "Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing (Bloomberg)",
       "title_zh": "消息来源：人工智能芯片制造商 Cerebras 最快可能在 4 月份通过 IPO 筹集约 20 亿美元；在提交申请近一年后，该公司于 10 月份撤回了之前的 IPO 注册（彭博社）",
@@ -1237,6 +1297,516 @@
       "title_bilingual": "资料来源：由于融资纠纷，甲骨文和 OpenAI 放弃了扩建德克萨斯州 Stargate 数据中心的计划； Meta 考虑租赁计划中的扩张场地（彭博社） / Sources: Oracle and OpenAI abandoned plans to expand a Stargate Texas data center amid financing disputes; Meta considers leasing the planned expansion site (Bloomberg)"
     },
     {
+      "id": "fa6e2880a01b5357de174488477b0d98d8bce7e8",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BuzzFeed News",
+      "title": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
+      "url": "https://www.buzzfeed.com/pranavdixit/google-60-minutes-ai-claims-challenged",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
+      "title_en": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
+      "title_zh": "研究人员指责谷歌和《60 分钟》传播人工智能“虚假信息”",
+      "title_bilingual": "研究人员指责谷歌和《60 分钟》传播人工智能“虚假信息” / Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”"
+    },
+    {
+      "id": "9d9bd517708a6e30c42961ce0c53771c9fe714e7",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BuzzFeed News",
+      "title": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
+      "url": "https://www.buzzfeednews.com/article/pranavdixit/google-60-minutes-ai-claims-challenged",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
+      "title_en": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
+      "title_zh": "研究人员指责谷歌和“60 分钟”过度夸大人工智能的能力",
+      "title_bilingual": "研究人员指责谷歌和“60 分钟”过度夸大人工智能的能力 / Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities"
+    },
+    {
+      "id": "eb8796027a81147361c4fe70ecb5769a2587d9b9",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BuzzFeed News",
+      "title": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "url": "https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "title_en": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "title_zh": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐",
+      "title_bilingual": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop"
+    },
+    {
+      "id": "a8ffce39dd2ea3337e9479bd4546636295f1e47a",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BuzzFeed News",
+      "title": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
+      "url": "https://www.buzzfeed.com/fjollaarifi/chatgpt-ai-for-therapy-mental-health",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
+      "title_en": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
+      "title_zh": "人们正在使用 ChatGPT 进行治疗。以下是心理健康专家的看法。",
+      "title_bilingual": "人们正在使用 ChatGPT 进行治疗。以下是心理健康专家的看法。 / People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That."
+    },
+    {
+      "id": "74c37cc409ee6be6aa6a312f2f63cec5ec681355",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BuzzFeed News",
+      "title": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "url": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "title_en": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
+      "title_zh": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐",
+      "title_bilingual": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop"
+    },
+    {
+      "id": "b46885401ba35d85b063fef01912a701fc359bc5",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Inquisitr",
+      "title": "2,000 People Apply To Build Asteroid Mining Robots",
+      "url": "https://www.inquisitr.com/237937/2000-people-apply-to-build-asteroid-mining-robots",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "2,000 People Apply To Build Asteroid Mining Robots",
+      "title_en": "2,000 People Apply To Build Asteroid Mining Robots",
+      "title_zh": "2,000 人申请建造小行星采矿机器人",
+      "title_bilingual": "2,000 人申请建造小行星采矿机器人 / 2,000 People Apply To Build Asteroid Mining Robots"
+    },
+    {
+      "id": "e6ed0d65933aaee660284796fb9ab44f3962ce76",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Business Insider",
+      "title": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
+      "url": "https://www.businessinsider.com/pentagon-official-details-how-talks-with-anthropic-fell-apart-2026-3",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
+      "title_en": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
+      "title_zh": "五角大楼官员详细介绍了引发与 Anthropic 不和的“圣牛”时刻",
+      "title_bilingual": "五角大楼官员详细介绍了引发与 Anthropic 不和的“圣牛”时刻 / Pentagon official details the 'holy cow' moments that sparked rift with Anthropic"
+    },
+    {
+      "id": "27c22a2fc18fbf5a62d96663835b2e01dd27df26",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Business Insider",
+      "title": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
+      "url": "https://www.businessinsider.com/top-stock-picks-to-buy-ai-disruption-software-meta-msft-2026-3",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
+      "title_en": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
+      "title_zh": "杰富瑞 (Jefferies) 表示，在人工智能颠覆恐慌之后，7 只股票优胜者正处于“折扣仓”",
+      "title_bilingual": "杰富瑞 (Jefferies) 表示，在人工智能颠覆恐慌之后，7 只股票优胜者正处于“折扣仓” / 7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic"
+    },
+    {
+      "id": "4a2629dd095c4afbf741fe4adaa88e4938acaf6f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+      "url": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+      "title_en": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+      "title_zh": "OpenAI的战争迷雾+押注伊朗+Slop硬分叉审核",
+      "title_bilingual": "OpenAI的战争迷雾+押注伊朗+Slop硬分叉审核 / OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop"
+    },
+    {
+      "id": "fdc5cbc967bbbf01b85ef1e62317f80260f8a98f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
+      "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
+      "title_en": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
+      "title_zh": "五角大楼正式通知 Anthropic 这是一个“供应链风险”",
+      "title_bilingual": "五角大楼正式通知 Anthropic 这是一个“供应链风险” / The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’"
+    },
+    {
+      "id": "a9e1bc8b65c4a8ce2832f8fa9e743ac719fe3d7b",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+      "url": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+      "title_en": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+      "title_zh": "对人工智能数据中心的需求促使探矿者寻找土地和电力",
+      "title_bilingual": "对人工智能数据中心的需求促使探矿者寻找土地和电力 / Demand for AI Data Centers Sends Prospectors Hunting for Land and Power"
+    },
+    {
+      "id": "0acf4dd8872bedc1fbfcdbd60bbb9606c96fb4f3",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+      "url": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+      "title_en": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+      "title_zh": "智能家居从来没有完全发挥作用。现在它有了人工智能。重新启动。",
+      "title_bilingual": "智能家居从来没有完全发挥作用。现在它有了人工智能。重新启动。 / The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot."
+    },
+    {
+      "id": "905cc82f854b446a0d5d2f6979add48e62b12c6b",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
+      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Trump Announces A.I. Industry Pledge to Pay for Power",
+      "title_en": "Trump Announces A.I. Industry Pledge to Pay for Power",
+      "title_zh": "特朗普宣布人工智能行业承诺支付电力费用",
+      "title_bilingual": "特朗普宣布人工智能行业承诺支付电力费用 / Trump Announces A.I. Industry Pledge to Pay for Power"
+    },
+    {
+      "id": "59746fecb4e8434b8b63f5c4ad23da5d6857ed58",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+      "url": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+      "title_en": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+      "title_zh": "伊朗电视和社交媒体项目对战争的挑衅和扭曲观点",
+      "title_bilingual": "伊朗电视和社交媒体项目对战争的挑衅和扭曲观点 / Iranian TV and Social Media Project Defiant and Distorted View of the War"
+    },
+    {
+      "id": "7108ff57d0cd93734f06bd55998eab0044ac0e93",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "New York Times",
+      "title": "OpenAI Amends A.I. Deal With the Pentagon",
+      "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "OpenAI Amends A.I. Deal With the Pentagon",
+      "title_en": "OpenAI Amends A.I. Deal With the Pentagon",
+      "title_zh": "OpenAI 修正了 A.I.与五角大楼打交道",
+      "title_bilingual": "OpenAI 修正了 A.I.与五角大楼打交道 / OpenAI Amends A.I. Deal With the Pentagon"
+    },
+    {
+      "id": "090833c0b3338c1346bcff7d015a8ad0308c4910",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "In the Loop: Is AI Making the Next Pandemic More Likely?",
+      "url": "https://time.com/7298731/in-the-loop-pandemic-ai-study",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "In the Loop: Is AI Making the Next Pandemic More Likely?",
+      "title_en": "In the Loop: Is AI Making the Next Pandemic More Likely?",
+      "title_zh": "循环中：人工智能是否会使下一次流行病更有可能发生？",
+      "title_bilingual": "循环中：人工智能是否会使下一次流行病更有可能发生？ / In the Loop: Is AI Making the Next Pandemic More Likely?"
+    },
+    {
+      "id": "b9b8cf1899fbcbc3075a02cdccece0262a9bd497",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
+      "url": "https://time.com/7298645/ai-pandemic-5-times-more-likely",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
+      "title_en": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
+      "title_zh": "专家预测，当今的人工智能可能会使流行病发生的可能性增加 5 倍",
+      "title_bilingual": "专家预测，当今的人工智能可能会使流行病发生的可能性增加 5 倍 / Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict"
+    },
+    {
+      "id": "72a797112dcbc4b228e11e524f2c34b52caafc5e",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
+      "url": "https://time.com/7298425/ai-deepfakes-denmark-copyright-amendment",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
+      "title_en": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
+      "title_zh": "丹麦寻求赋予人们自己的特征版权，以打击人工智能深度假货",
+      "title_bilingual": "丹麦寻求赋予人们自己的特征版权，以打击人工智能深度假货 / Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes"
+    },
+    {
+      "id": "f17358713d497f2ee945363d77fd5de1400c9a0a",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
+      "url": "https://time.com/7298299/chatgpt-bad-for-brain-study",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
+      "title_en": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
+      "title_zh": "使用 ChatGPT 写论文对你的大脑有害吗？麻省理工学院的新研究得到了解释。",
+      "title_bilingual": "使用 ChatGPT 写论文对你的大脑有害吗？麻省理工学院的新研究得到了解释。 / Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained."
+    },
+    {
+      "id": "21cad77e7b534b0f72d2d3ead7547b0b2c23c1ad",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
+      "url": "https://time.com/7298088/claude-anthropic-shop-ai-jobs",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
+      "title_en": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
+      "title_zh": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪",
+      "title_bilingual": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪 / Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird"
+    },
+    {
+      "id": "33757b02121f3a5cb6af2356d62f124ebc803ed4",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
+      "url": "https://time.com/7298290/ai-death-grief-memory",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
+      "title_en": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
+      "title_zh": "“死者从未如此健谈”：人工智能复活的崛起",
+      "title_bilingual": "“死者从未如此健谈”：人工智能复活的崛起 / ‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection"
+    },
+    {
+      "id": "06627fd79f94f42a0c449d8d05f8c252ed2604f6",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
+      "url": "https://time.com/7297580/ai-moratorium-senate-big-beautiful-bill",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
+      "title_en": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
+      "title_zh": "为什么人工智能监管已成为“国家”权利问题",
+      "title_bilingual": "为什么人工智能监管已成为“国家”权利问题 / Why AI Regulation Has Become a ‘States’ Rights’ Issue"
+    },
+    {
+      "id": "a8961272131f91614acafe03c9ab46a1d35e3255",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
+      "url": "https://time.com/7297025/tesla-robotaxis-test-run-austin",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
+      "title_en": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
+      "title_zh": "特斯拉在德克萨斯州奥斯汀推出“机器人出租车”，需要了解哪些信息",
+      "title_bilingual": "特斯拉在德克萨斯州奥斯汀推出“机器人出租车”，需要了解哪些信息 / What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas"
+    },
+    {
+      "id": "232dd2c434d576ebd1baa4d00a736ca101322116",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
+      "url": "https://time.com/7296215/alexandr-wang-interview",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
+      "title_en": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
+      "title_zh": "Scale AI 前首席执行官 Alexandr Wang 谈人工智能的潜力及其“缺陷”",
+      "title_bilingual": "Scale AI 前首席执行官 Alexandr Wang 谈人工智能的潜力及其“缺陷” / Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’"
+    },
+    {
+      "id": "313692934578ac8603aa4ee2f487a6b8078c227e",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
+      "url": "https://time.com/7295662/ai-workers-safety-rules",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
+      "title_en": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
+      "title_zh": "独家：新的全球安全标准旨在保护人工智能中受创最严重的工人",
+      "title_bilingual": "独家：新的全球安全标准旨在保护人工智能中受创最严重的工人 / Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers"
+    },
+    {
+      "id": "ad5281ab9c3c83552dbead5a2b2c26de4c3f8799",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "TIME Magazine",
+      "title": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
+      "url": "https://time.com/7295844/climate-emissions-impact-ai-prompts",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
+      "title_en": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
+      "title_zh": "一些人工智能提示可能导致二氧化碳排放量比其他提示多 50 倍",
+      "title_bilingual": "一些人工智能提示可能导致二氧化碳排放量比其他提示多 50 倍 / Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others"
+    },
+    {
+      "id": "9c26e64e229886a887ad5b71240d764b70e9c6f5",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BBC News",
+      "title": "Anthropic labelled a supply chain risk by Pentagon",
+      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Anthropic labelled a supply chain risk by Pentagon",
+      "title_en": "Anthropic labelled a supply chain risk by Pentagon",
+      "title_zh": "Anthropic 被五角大楼标记为供应链风险",
+      "title_bilingual": "Anthropic 被五角大楼标记为供应链风险 / Anthropic labelled a supply chain risk by Pentagon"
+    },
+    {
+      "id": "8658d0fd4cdab2768dbe80fee019e25e762384ba",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BBC News",
+      "title": "Father claims Google's AI product fuelled son's delusional spiral",
+      "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Father claims Google's AI product fuelled son's delusional spiral",
+      "title_en": "Father claims Google's AI product fuelled son's delusional spiral",
+      "title_zh": "父亲声称谷歌的人工智能产品助长了儿子的妄想症",
+      "title_bilingual": "父亲声称谷歌的人工智能产品助长了儿子的妄想症 / Father claims Google's AI product fuelled son's delusional spiral"
+    },
+    {
+      "id": "58f0db3011bd4b8f8e35fc5ee0b83d616e22f848",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BBC News",
+      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+      "title_en": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+      "title_zh": "监管机构就员工观看私密 AI 眼镜视频问题联系 Meta",
+      "title_bilingual": "监管机构就员工观看私密 AI 眼镜视频问题联系 Meta / Regulator contacts Meta over workers watching intimate AI glasses videos"
+    },
+    {
+      "id": "db42145237e127e9118bea3cd12e59b1e0326d9b",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BBC News",
+      "title": "Can a robot recruiter really spot a good carer?",
+      "url": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Can a robot recruiter really spot a good carer?",
+      "title_en": "Can a robot recruiter really spot a good carer?",
+      "title_zh": "机器人招聘人员真的能找到好的护理人员吗？",
+      "title_bilingual": "机器人招聘人员真的能找到好的护理人员吗？ / Can a robot recruiter really spot a good carer?"
+    },
+    {
+      "id": "57bc779fa56820b9791d0d4d171798708b190eda",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "BBC News",
+      "title": "OpenAI changes deal with US military after backlash",
+      "url": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "OpenAI changes deal with US military after backlash",
+      "title_en": "OpenAI changes deal with US military after backlash",
+      "title_zh": "OpenAI 在强烈反对后改变了与美国军方的协议",
+      "title_bilingual": "OpenAI 在强烈反对后改变了与美国军方的协议 / OpenAI changes deal with US military after backlash"
+    },
+    {
+      "id": "d6fc9b6ac498032ff82f371e29aeca24a79a05aa",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "CNET",
+      "title": "Learn Cybersecurity Skills With These 4 Online Courses",
+      "url": "https://www.cnet.com/tech/services-and-software/learn-cybersecurity-skills-with-these-4-online-courses",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Learn Cybersecurity Skills With These 4 Online Courses",
+      "title_en": "Learn Cybersecurity Skills With These 4 Online Courses",
+      "title_zh": "通过这 4 门在线课程学习网络安全技能",
+      "title_bilingual": "通过这 4 门在线课程学习网络安全技能 / Learn Cybersecurity Skills With These 4 Online Courses"
+    },
+    {
+      "id": "71430e97646641e6280ecd02a54d860916c4f995",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "CNET",
+      "title": "Services And Software",
+      "url": "https://www.cnet.com/tech/services-and-software/learn-fundamental-cybersecurity-skills-with-these-4-online-courses",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
+      "title_original": "Services And Software",
+      "title_en": "Services And Software",
+      "title_zh": "服务和软件",
+      "title_bilingual": "服务和软件 / Services And Software"
+    },
+    {
+      "id": "727367305419312a1d58dc4ed03a5bb7a32ffe47",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Mashable",
+      "title": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
+      "url": "https://mashable.com/article/gpt-5-4-release-improvements-changes",
+      "published_at": null,
+      "first_seen_at": "2026-03-07T01:40:04.391Z",
+      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "title_original": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
+      "title_en": "GPT 5.4 arrives on ChatGPT: 5 improvements to know",
+      "title_zh": "GPT 5.4 登陆 ChatGPT：需要了解的 5 项改进",
+      "title_bilingual": "GPT 5.4 登陆 ChatGPT：需要了解的 5 项改进 / GPT 5.4 arrives on ChatGPT: 5 improvements to know"
+    },
+    {
       "id": "c948f1e5ef8949c7b69a595362f61caf5f47a044",
       "site_id": "techurls",
       "site_name": "TechURLs",
@@ -1252,126 +1822,6 @@
       "title_bilingual": "Anthropic 推出了 Claude Marketplace，让公司可以使用 Anthropic 服务上承诺的年度支出来购买第三方软件（Shirin Ghaffary/彭博社） / Anthropic launches Claude Marketplace, letting companies buy third-party software using some of their committed annual spending on Anthropic's services (Shirin Ghaffary/Bloomberg)"
     },
     {
-      "id": "fa6e2880a01b5357de174488477b0d98d8bce7e8",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BuzzFeed News",
-      "title": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
-      "url": "https://www.buzzfeed.com/pranavdixit/google-60-minutes-ai-claims-challenged",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
-      "title_en": "Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”",
-      "title_zh": "研究人员指责谷歌和《60 分钟》传播人工智能“虚假信息”",
-      "title_bilingual": "研究人员指责谷歌和《60 分钟》传播人工智能“虚假信息” / Researchers Accused Google And “60 Minutes” Of Spreading AI “Disinformation”"
-    },
-    {
-      "id": "9d9bd517708a6e30c42961ce0c53771c9fe714e7",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BuzzFeed News",
-      "title": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
-      "url": "https://www.buzzfeednews.com/article/pranavdixit/google-60-minutes-ai-claims-challenged",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
-      "title_en": "Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities",
-      "title_zh": "研究人员指责谷歌和“60 分钟”过度夸大人工智能的能力",
-      "title_bilingual": "研究人员指责谷歌和“60 分钟”过度夸大人工智能的能力 / Researchers Are Calling Out Google And “60 Minutes” For Overhyping AI’s Abilities"
-    },
-    {
-      "id": "eb8796027a81147361c4fe70ecb5769a2587d9b9",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BuzzFeed News",
-      "title": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "url": "https://www.buzzfeed.com/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "title_en": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "title_zh": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐",
-      "title_bilingual": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop"
-    },
-    {
-      "id": "a8ffce39dd2ea3337e9479bd4546636295f1e47a",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BuzzFeed News",
-      "title": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
-      "url": "https://www.buzzfeed.com/fjollaarifi/chatgpt-ai-for-therapy-mental-health",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
-      "title_en": "People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That.",
-      "title_zh": "人们正在使用 ChatGPT 进行治疗。以下是心理健康专家的看法。",
-      "title_bilingual": "人们正在使用 ChatGPT 进行治疗。以下是心理健康专家的看法。 / People Are Using ChatGPT For Therapy. Here’s What Mental Health Experts Think About That."
-    },
-    {
-      "id": "74c37cc409ee6be6aa6a312f2f63cec5ec681355",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BuzzFeed News",
-      "title": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "url": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-hip-hop-rap-music-drake-kanye-weeknd-rihanna-jay-z",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "title_en": "Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop",
-      "title_zh": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐",
-      "title_bilingual": "假 Drakes 和假 Kanyes：互联网突然充斥着人工智能生成的嘻哈音乐 / Fake Drakes And Counterfeit Kanyes: The Internet Is Suddenly Full Of AI-Generated Hip-Hop"
-    },
-    {
-      "id": "b46885401ba35d85b063fef01912a701fc359bc5",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Inquisitr",
-      "title": "2,000 People Apply To Build Asteroid Mining Robots",
-      "url": "https://www.inquisitr.com/237937/2000-people-apply-to-build-asteroid-mining-robots",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "2,000 People Apply To Build Asteroid Mining Robots",
-      "title_en": "2,000 People Apply To Build Asteroid Mining Robots",
-      "title_zh": "2,000 人申请建造小行星采矿机器人",
-      "title_bilingual": "2,000 人申请建造小行星采矿机器人 / 2,000 People Apply To Build Asteroid Mining Robots"
-    },
-    {
-      "id": "e6ed0d65933aaee660284796fb9ab44f3962ce76",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Business Insider",
-      "title": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
-      "url": "https://www.businessinsider.com/pentagon-official-details-how-talks-with-anthropic-fell-apart-2026-3",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
-      "title_en": "Pentagon official details the 'holy cow' moments that sparked rift with Anthropic",
-      "title_zh": "五角大楼官员详细介绍了引发与 Anthropic 不和的“圣牛”时刻",
-      "title_bilingual": "五角大楼官员详细介绍了引发与 Anthropic 不和的“圣牛”时刻 / Pentagon official details the 'holy cow' moments that sparked rift with Anthropic"
-    },
-    {
-      "id": "27c22a2fc18fbf5a62d96663835b2e01dd27df26",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Business Insider",
-      "title": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
-      "url": "https://www.businessinsider.com/top-stock-picks-to-buy-ai-disruption-software-meta-msft-2026-3",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
-      "title_en": "7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic",
-      "title_zh": "杰富瑞 (Jefferies) 表示，在人工智能颠覆恐慌之后，7 只股票优胜者正处于“折扣仓”",
-      "title_bilingual": "杰富瑞 (Jefferies) 表示，在人工智能颠覆恐慌之后，7 只股票优胜者正处于“折扣仓” / 7 stock winners Jefferies says are sitting 'in the discount bin' after the AI-disruption panic"
-    },
-    {
       "id": "4ae3585c67816d2a34460a729e95a48dac66dc1e",
       "site_id": "techurls",
       "site_name": "TechURLs",
@@ -1385,381 +1835,6 @@
       "title_en": "A 42-year-old thought blood in the toilet was pregnancy-related hemorrhoids. She had colorectal cancer.",
       "title_zh": "一名 42 岁的女士认为马桶里有血是怀孕相关的痔疮。她患有结直肠癌。",
       "title_bilingual": "一名 42 岁的女士认为马桶里有血是怀孕相关的痔疮。她患有结直肠癌。 / A 42-year-old thought blood in the toilet was pregnancy-related hemorrhoids. She had colorectal cancer."
-    },
-    {
-      "id": "4a2629dd095c4afbf741fe4adaa88e4938acaf6f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "url": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "title_en": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "title_zh": "OpenAI的战争迷雾+押注伊朗+Slop硬分叉审核",
-      "title_bilingual": "OpenAI的战争迷雾+押注伊朗+Slop硬分叉审核 / OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop"
-    },
-    {
-      "id": "fdc5cbc967bbbf01b85ef1e62317f80260f8a98f",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
-      "url": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
-      "title_en": "The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’",
-      "title_zh": "五角大楼正式通知 Anthropic 这是一个“供应链风险”",
-      "title_bilingual": "五角大楼正式通知 Anthropic 这是一个“供应链风险” / The Pentagon Officially Notifies Anthropic That It Is a ‘Supply Chain Risk’"
-    },
-    {
-      "id": "a9e1bc8b65c4a8ce2832f8fa9e743ac719fe3d7b",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-      "url": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-      "title_en": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-      "title_zh": "对人工智能数据中心的需求促使探矿者寻找土地和电力",
-      "title_bilingual": "对人工智能数据中心的需求促使探矿者寻找土地和电力 / Demand for AI Data Centers Sends Prospectors Hunting for Land and Power"
-    },
-    {
-      "id": "0acf4dd8872bedc1fbfcdbd60bbb9606c96fb4f3",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
-      "url": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
-      "title_en": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
-      "title_zh": "智能家居从来没有完全发挥作用。现在它有了人工智能。重新启动。",
-      "title_bilingual": "智能家居从来没有完全发挥作用。现在它有了人工智能。重新启动。 / The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot."
-    },
-    {
-      "id": "905cc82f854b446a0d5d2f6979add48e62b12c6b",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
-      "url": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Trump Announces A.I. Industry Pledge to Pay for Power",
-      "title_en": "Trump Announces A.I. Industry Pledge to Pay for Power",
-      "title_zh": "特朗普宣布人工智能行业承诺支付电力费用",
-      "title_bilingual": "特朗普宣布人工智能行业承诺支付电力费用 / Trump Announces A.I. Industry Pledge to Pay for Power"
-    },
-    {
-      "id": "59746fecb4e8434b8b63f5c4ad23da5d6857ed58",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-      "url": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-      "title_en": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-      "title_zh": "伊朗电视和社交媒体项目对战争的挑衅和扭曲观点",
-      "title_bilingual": "伊朗电视和社交媒体项目对战争的挑衅和扭曲观点 / Iranian TV and Social Media Project Defiant and Distorted View of the War"
-    },
-    {
-      "id": "7108ff57d0cd93734f06bd55998eab0044ac0e93",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "New York Times",
-      "title": "OpenAI Amends A.I. Deal With the Pentagon",
-      "url": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "OpenAI Amends A.I. Deal With the Pentagon",
-      "title_en": "OpenAI Amends A.I. Deal With the Pentagon",
-      "title_zh": "OpenAI 修正了 A.I.与五角大楼打交道",
-      "title_bilingual": "OpenAI 修正了 A.I.与五角大楼打交道 / OpenAI Amends A.I. Deal With the Pentagon"
-    },
-    {
-      "id": "090833c0b3338c1346bcff7d015a8ad0308c4910",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "In the Loop: Is AI Making the Next Pandemic More Likely?",
-      "url": "https://time.com/7298731/in-the-loop-pandemic-ai-study",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "In the Loop: Is AI Making the Next Pandemic More Likely?",
-      "title_en": "In the Loop: Is AI Making the Next Pandemic More Likely?",
-      "title_zh": "循环中：人工智能是否会使下一次流行病更有可能发生？",
-      "title_bilingual": "循环中：人工智能是否会使下一次流行病更有可能发生？ / In the Loop: Is AI Making the Next Pandemic More Likely?"
-    },
-    {
-      "id": "b9b8cf1899fbcbc3075a02cdccece0262a9bd497",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
-      "url": "https://time.com/7298645/ai-pandemic-5-times-more-likely",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
-      "title_en": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
-      "title_zh": "专家预测，当今的人工智能可能会使流行病发生的可能性增加 5 倍",
-      "title_bilingual": "专家预测，当今的人工智能可能会使流行病发生的可能性增加 5 倍 / Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict"
-    },
-    {
-      "id": "72a797112dcbc4b228e11e524f2c34b52caafc5e",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
-      "url": "https://time.com/7298425/ai-deepfakes-denmark-copyright-amendment",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
-      "title_en": "Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes",
-      "title_zh": "丹麦寻求赋予人们自己的特征版权，以打击人工智能深度假货",
-      "title_bilingual": "丹麦寻求赋予人们自己的特征版权，以打击人工智能深度假货 / Denmark Seeks to Give People Copyright to Their Own Features in Effort to Combat AI Deepfakes"
-    },
-    {
-      "id": "f17358713d497f2ee945363d77fd5de1400c9a0a",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
-      "url": "https://time.com/7298299/chatgpt-bad-for-brain-study",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
-      "title_en": "Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained.",
-      "title_zh": "使用 ChatGPT 写论文对你的大脑有害吗？麻省理工学院的新研究得到了解释。",
-      "title_bilingual": "使用 ChatGPT 写论文对你的大脑有害吗？麻省理工学院的新研究得到了解释。 / Is Using ChatGPT to Write Your Essay Bad for Your Brain? New MIT Study Explained."
-    },
-    {
-      "id": "21cad77e7b534b0f72d2d3ead7547b0b2c23c1ad",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
-      "url": "https://time.com/7298088/claude-anthropic-shop-ai-jobs",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
-      "title_en": "Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird",
-      "title_zh": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪",
-      "title_bilingual": "独家：Anthropic 让 Claude 经营其办公室商店。然后事情变得奇怪 / Exclusive: Anthropic Let Claude Run Its Office Shop. Then Things Got Weird"
-    },
-    {
-      "id": "33757b02121f3a5cb6af2356d62f124ebc803ed4",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
-      "url": "https://time.com/7298290/ai-death-grief-memory",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
-      "title_en": "‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection",
-      "title_zh": "“死者从未如此健谈”：人工智能复活的崛起",
-      "title_bilingual": "“死者从未如此健谈”：人工智能复活的崛起 / ‘The Dead Have Never Been This Talkative’: The Rise of AI Resurrection"
-    },
-    {
-      "id": "06627fd79f94f42a0c449d8d05f8c252ed2604f6",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
-      "url": "https://time.com/7297580/ai-moratorium-senate-big-beautiful-bill",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
-      "title_en": "Why AI Regulation Has Become a ‘States’ Rights’ Issue",
-      "title_zh": "为什么人工智能监管已成为“国家”权利问题",
-      "title_bilingual": "为什么人工智能监管已成为“国家”权利问题 / Why AI Regulation Has Become a ‘States’ Rights’ Issue"
-    },
-    {
-      "id": "a8961272131f91614acafe03c9ab46a1d35e3255",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
-      "url": "https://time.com/7297025/tesla-robotaxis-test-run-austin",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
-      "title_en": "What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas",
-      "title_zh": "特斯拉在德克萨斯州奥斯汀推出“机器人出租车”，需要了解哪些信息",
-      "title_bilingual": "特斯拉在德克萨斯州奥斯汀推出“机器人出租车”，需要了解哪些信息 / What to Know About Tesla’s ‘Robotaxis’ as They Launch in Austin, Texas"
-    },
-    {
-      "id": "232dd2c434d576ebd1baa4d00a736ca101322116",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
-      "url": "https://time.com/7296215/alexandr-wang-interview",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
-      "title_en": "Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’",
-      "title_zh": "Scale AI 前首席执行官 Alexandr Wang 谈人工智能的潜力及其“缺陷”",
-      "title_bilingual": "Scale AI 前首席执行官 Alexandr Wang 谈人工智能的潜力及其“缺陷” / Former Scale AI CEO Alexandr Wang on AI’s Potential and Its ‘Deficiencies’"
-    },
-    {
-      "id": "313692934578ac8603aa4ee2f487a6b8078c227e",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
-      "url": "https://time.com/7295662/ai-workers-safety-rules",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
-      "title_en": "Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers",
-      "title_zh": "独家：新的全球安全标准旨在保护人工智能中受创最严重的工人",
-      "title_bilingual": "独家：新的全球安全标准旨在保护人工智能中受创最严重的工人 / Exclusive: New Global Safety Standards Aim to Protect AI’s Most Traumatized Workers"
-    },
-    {
-      "id": "ad5281ab9c3c83552dbead5a2b2c26de4c3f8799",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "TIME Magazine",
-      "title": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
-      "url": "https://time.com/7295844/climate-emissions-impact-ai-prompts",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
-      "title_en": "Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others",
-      "title_zh": "一些人工智能提示可能导致二氧化碳排放量比其他提示多 50 倍",
-      "title_bilingual": "一些人工智能提示可能导致二氧化碳排放量比其他提示多 50 倍 / Some AI Prompts Can Cause 50 Times More CO2 Emissions Than Others"
-    },
-    {
-      "id": "9c26e64e229886a887ad5b71240d764b70e9c6f5",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "Anthropic labelled a supply chain risk by Pentagon",
-      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Anthropic labelled a supply chain risk by Pentagon",
-      "title_en": "Anthropic labelled a supply chain risk by Pentagon",
-      "title_zh": "Anthropic 被五角大楼标记为供应链风险",
-      "title_bilingual": "Anthropic 被五角大楼标记为供应链风险 / Anthropic labelled a supply chain risk by Pentagon"
-    },
-    {
-      "id": "8658d0fd4cdab2768dbe80fee019e25e762384ba",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "Father claims Google's AI product fuelled son's delusional spiral",
-      "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Father claims Google's AI product fuelled son's delusional spiral",
-      "title_en": "Father claims Google's AI product fuelled son's delusional spiral",
-      "title_zh": "父亲声称谷歌的人工智能产品助长了儿子的妄想症",
-      "title_bilingual": "父亲声称谷歌的人工智能产品助长了儿子的妄想症 / Father claims Google's AI product fuelled son's delusional spiral"
-    },
-    {
-      "id": "58f0db3011bd4b8f8e35fc5ee0b83d616e22f848",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "title_en": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "title_zh": "监管机构就员工观看私密 AI 眼镜视频问题联系 Meta",
-      "title_bilingual": "监管机构就员工观看私密 AI 眼镜视频问题联系 Meta / Regulator contacts Meta over workers watching intimate AI glasses videos"
-    },
-    {
-      "id": "db42145237e127e9118bea3cd12e59b1e0326d9b",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "Can a robot recruiter really spot a good carer?",
-      "url": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Can a robot recruiter really spot a good carer?",
-      "title_en": "Can a robot recruiter really spot a good carer?",
-      "title_zh": "机器人招聘人员真的能找到好的护理人员吗？",
-      "title_bilingual": "机器人招聘人员真的能找到好的护理人员吗？ / Can a robot recruiter really spot a good carer?"
-    },
-    {
-      "id": "57bc779fa56820b9791d0d4d171798708b190eda",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "BBC News",
-      "title": "OpenAI changes deal with US military after backlash",
-      "url": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "OpenAI changes deal with US military after backlash",
-      "title_en": "OpenAI changes deal with US military after backlash",
-      "title_zh": "OpenAI 在强烈反对后改变了与美国军方的协议",
-      "title_bilingual": "OpenAI 在强烈反对后改变了与美国军方的协议 / OpenAI changes deal with US military after backlash"
-    },
-    {
-      "id": "d6fc9b6ac498032ff82f371e29aeca24a79a05aa",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "CNET",
-      "title": "Learn Cybersecurity Skills With These 4 Online Courses",
-      "url": "https://www.cnet.com/tech/services-and-software/learn-cybersecurity-skills-with-these-4-online-courses",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Learn Cybersecurity Skills With These 4 Online Courses",
-      "title_en": "Learn Cybersecurity Skills With These 4 Online Courses",
-      "title_zh": "通过这 4 门在线课程学习网络安全技能",
-      "title_bilingual": "通过这 4 门在线课程学习网络安全技能 / Learn Cybersecurity Skills With These 4 Online Courses"
-    },
-    {
-      "id": "71430e97646641e6280ecd02a54d860916c4f995",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "CNET",
-      "title": "Services And Software",
-      "url": "https://www.cnet.com/tech/services-and-software/learn-fundamental-cybersecurity-skills-with-these-4-online-courses",
-      "published_at": null,
-      "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
-      "title_original": "Services And Software",
-      "title_en": "Services And Software",
-      "title_zh": "服务和软件",
-      "title_bilingual": "服务和软件 / Services And Software"
     },
     {
       "id": "22a8d4f2cf3917082caa22f86730757226a07a68",
@@ -1905,7 +1980,7 @@
       "url": "https://github.com/justlovemaki",
       "published_at": "2026-03-06T18:30:00Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T06:23:35.207Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "🤝 商务合作交流",
       "title_en": null,
       "title_zh": "🤝 商务合作交流",
@@ -8478,8 +8553,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Motion-Aware Animatable Gaussian Avatars Deblurring",
       "title_en": "Motion-Aware Animatable Gaussian Avatars Deblurring",
-      "title_zh": null,
-      "title_bilingual": "Motion-Aware Animatable Gaussian Avatars Deblurring"
+      "title_zh": "运动感知动画高斯化身去模糊",
+      "title_bilingual": "运动感知动画高斯化身去模糊 / Motion-Aware Animatable Gaussian Avatars Deblurring"
     },
     {
       "id": "0ec02a0b608b0abc0afde96e3d37c3be44f11396",
@@ -8493,8 +8568,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation",
       "title_en": "Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation",
-      "title_zh": null,
-      "title_bilingual": "Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation"
+      "title_zh": "跟踪一切背后的一切：零样本阿模态视频对象分割",
+      "title_bilingual": "跟踪一切背后的一切：零样本阿模态视频对象分割 / Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation"
     },
     {
       "id": "b33cb722ae6f750e678187a76301e565179b1823",
@@ -8508,8 +8583,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Learnable Sparsity for Vision Generative Models",
       "title_en": "Learnable Sparsity for Vision Generative Models",
-      "title_zh": null,
-      "title_bilingual": "Learnable Sparsity for Vision Generative Models"
+      "title_zh": "视觉生成模型的可学习稀疏性",
+      "title_bilingual": "视觉生成模型的可学习稀疏性 / Learnable Sparsity for Vision Generative Models"
     },
     {
       "id": "76e6cecdb785a2e5e91b77ba5d1ac6dc210be1e8",
@@ -8523,8 +8598,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Flatness Guided Test-Time Adaptation for Vision-Language Models",
       "title_en": "Flatness Guided Test-Time Adaptation for Vision-Language Models",
-      "title_zh": null,
-      "title_bilingual": "Flatness Guided Test-Time Adaptation for Vision-Language Models"
+      "title_zh": "视觉语言模型的平坦度引导测试时间适应",
+      "title_bilingual": "视觉语言模型的平坦度引导测试时间适应 / Flatness Guided Test-Time Adaptation for Vision-Language Models"
     },
     {
       "id": "7ba627af1430a7ae75899c1ee61fc53616824ef0",
@@ -8538,8 +8613,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight",
       "title_en": "3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight",
-      "title_zh": null,
-      "title_bilingual": "3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight"
+      "title_zh": "3D 动力学感知操纵：赋予操纵策略 3D 前瞻",
+      "title_bilingual": "3D 动力学感知操纵：赋予操纵策略 3D 前瞻 / 3D Dynamics-Aware Manipulation: Endowing Manipulation Policies with 3D Foresight"
     },
     {
       "id": "748fab3f74e1ec09dc5163f731e08570990de0d8",
@@ -8553,8 +8628,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond",
       "title_en": "RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond",
-      "title_zh": null,
-      "title_bilingual": "RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond"
+      "title_zh": "RapidPoseTriangulation：毫秒级多视角多人全身人体姿势三角测量",
+      "title_bilingual": "RapidPoseTriangulation：毫秒级多视角多人全身人体姿势三角测量 / RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond"
     },
     {
       "id": "ebc18cd66e0df830a7c0428d59f5f05ac5089c40",
@@ -8568,8 +8643,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging",
       "title_en": "Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging",
-      "title_zh": null,
-      "title_bilingual": "Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging"
+      "title_zh": "Noise2Ghost：用于鬼影成像的自监督深度卷积重建",
+      "title_bilingual": "Noise2Ghost：用于鬼影成像的自监督深度卷积重建 / Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging"
     },
     {
       "id": "8c1fdb318f52992f49eb2ee049aa294cfbb15c2e",
@@ -8583,8 +8658,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Collaborative Learning of Local 3D Occupancy Prediction and Versatile Global Occupancy Mapping",
       "title_en": "Collaborative Learning of Local 3D Occupancy Prediction and Versatile Global Occupancy Mapping",
-      "title_zh": null,
-      "title_bilingual": "Collaborative Learning of Local 3D Occupancy Prediction and Versatile Global Occupancy Mapping"
+      "title_zh": "局部 3D 占用预测和多功能全局占用映射的协作学习",
+      "title_bilingual": "局部 3D 占用预测和多功能全局占用映射的协作学习 / Collaborative Learning of Local 3D Occupancy Prediction and Versatile Global Occupancy Mapping"
     },
     {
       "id": "dadce4db376a76eeacc3ff45d0a6c9e16775d0d2",
@@ -8598,8 +8673,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing",
       "title_en": "PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing",
-      "title_zh": null,
-      "title_bilingual": "PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing"
+      "title_zh": "PhysLLM：利用大型语言模型进行跨模式远程生理传感",
+      "title_bilingual": "PhysLLM：利用大型语言模型进行跨模式远程生理传感 / PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing"
     },
     {
       "id": "49ea96ed92794b7a3df1dbec9800077d3f578225",
@@ -8613,8 +8688,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation",
       "title_en": "RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation",
-      "title_zh": null,
-      "title_bilingual": "RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation"
+      "title_zh": "RESAR-BEV：BEV 分割中相机雷达融合的可解释渐进残差自回归方法",
+      "title_bilingual": "RESAR-BEV：BEV 分割中相机雷达融合的可解释渐进残差自回归方法 / RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation"
     },
     {
       "id": "1f86a2ec8c460985a39204baa0fdc5690b2b47b6",
@@ -8628,8 +8703,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation",
       "title_en": "OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation",
-      "title_zh": null,
-      "title_bilingual": "OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation"
+      "title_zh": "OSPO：以对象为中心的自我改进偏好优化，用于文本到图像的生成",
+      "title_bilingual": "OSPO：以对象为中心的自我改进偏好优化，用于文本到图像的生成 / OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation"
     },
     {
       "id": "75c88770716504bdbbc8d8a3098527458b5db9ae",
@@ -8643,8 +8718,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models",
       "title_en": "EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models",
-      "title_zh": null,
-      "title_bilingual": "EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models"
+      "title_zh": "编辑：文本到图像扩散模型的有效且可解释的提示反演",
+      "title_bilingual": "编辑：文本到图像扩散模型的有效且可解释的提示反演 / EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models"
     },
     {
       "id": "24287b561f18ea8def817de964dacf08dc1c3f15",
@@ -8658,8 +8733,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition",
       "title_en": "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition",
-      "title_zh": null,
-      "title_bilingual": "HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"
+      "title_zh": "HypeVPR：探索双曲空间以实现等矩形视觉位置识别的透视",
+      "title_bilingual": "HypeVPR：探索双曲空间以实现等矩形视觉位置识别的透视 / HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"
     },
     {
       "id": "2f91a4f59bd6d81742661920c53dde59bec0ab57",
@@ -8673,8 +8748,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping",
       "title_en": "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping",
-      "title_zh": null,
-      "title_bilingual": "FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping"
+      "title_zh": "FLAIR-HUB：用于土地覆盖和作物制图的大规模多模式数据集",
+      "title_bilingual": "FLAIR-HUB：用于土地覆盖和作物制图的大规模多模式数据集 / FLAIR-HUB: Large-scale Multimodal Dataset for Land Cover and Crop Mapping"
     },
     {
       "id": "1910c606e8c56d705f52526cb4d997ff9907dbd1",
@@ -8688,8 +8763,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs",
       "title_en": "AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs",
-      "title_zh": null,
-      "title_bilingual": "AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs"
+      "title_zh": "AutoV：LVLM 中视觉提示检索的面向损失排序",
+      "title_bilingual": "AutoV：LVLM 中视觉提示检索的面向损失排序 / AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs"
     },
     {
       "id": "5e2711e2a51e22401684f9d68680c146a9df3508",
@@ -8703,8 +8778,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models",
       "title_en": "Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models",
-      "title_zh": null,
-      "title_bilingual": "Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models"
+      "title_zh": "阐明基于任意噪声的扩散模型的设计空间",
+      "title_bilingual": "阐明基于任意噪声的扩散模型的设计空间 / Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models"
     },
     {
       "id": "d501c1a425b4a8cdd626eb1e82a3bae3f479dc95",
@@ -8718,8 +8793,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation",
       "title_en": "SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation",
-      "title_zh": null,
-      "title_bilingual": "SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation"
+      "title_zh": "SAMPO-Path：病理学基础模型分割的分割意图一致偏好优化",
+      "title_bilingual": "SAMPO-Path：病理学基础模型分割的分割意图一致偏好优化 / SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation"
     },
     {
       "id": "09883f3e0d34418278ab76c46050d9a4e4397ba2",
@@ -8733,8 +8808,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Optimizing Multi-Modality Trackers via Significance-Regularized Tuning",
       "title_en": "Optimizing Multi-Modality Trackers via Significance-Regularized Tuning",
-      "title_zh": null,
-      "title_bilingual": "Optimizing Multi-Modality Trackers via Significance-Regularized Tuning"
+      "title_zh": "通过重要性正则化调整优化多模态跟踪器",
+      "title_bilingual": "通过重要性正则化调整优化多模态跟踪器 / Optimizing Multi-Modality Trackers via Significance-Regularized Tuning"
     },
     {
       "id": "08b1ecd7dcfd2cc899bb7d0b2edeb4bb0828dd37",
@@ -8748,8 +8823,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Distant Object Localisation from Noisy Image Segmentation Sequences",
       "title_en": "Distant Object Localisation from Noisy Image Segmentation Sequences",
-      "title_zh": null,
-      "title_bilingual": "Distant Object Localisation from Noisy Image Segmentation Sequences"
+      "title_zh": "基于噪声图像分割序列的远程对象定位",
+      "title_bilingual": "基于噪声图像分割序列的远程对象定位 / Distant Object Localisation from Noisy Image Segmentation Sequences"
     },
     {
       "id": "85bb78cbe5de2d85724d347067f4073202d33a84",
@@ -8763,8 +8838,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Hyperspherical Latents Improve Continuous-Token Autoregressive Generation",
       "title_en": "Hyperspherical Latents Improve Continuous-Token Autoregressive Generation",
-      "title_zh": null,
-      "title_bilingual": "Hyperspherical Latents Improve Continuous-Token Autoregressive Generation"
+      "title_zh": "超球形潜伏改善了连续令牌自回归生成",
+      "title_bilingual": "超球形潜伏改善了连续令牌自回归生成 / Hyperspherical Latents Improve Continuous-Token Autoregressive Generation"
     },
     {
       "id": "21002524af98e220186fcabdd5b0b17eb4226a9f",
@@ -8778,8 +8853,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Continuous Space-Time Video Super-Resolution with 3D Fourier Fields",
       "title_en": "Continuous Space-Time Video Super-Resolution with 3D Fourier Fields",
-      "title_zh": null,
-      "title_bilingual": "Continuous Space-Time Video Super-Resolution with 3D Fourier Fields"
+      "title_zh": "具有 3D 傅立叶场的连续时空视频超分辨率",
+      "title_bilingual": "具有 3D 傅立叶场的连续时空视频超分辨率 / Continuous Space-Time Video Super-Resolution with 3D Fourier Fields"
     },
     {
       "id": "8a1ce7b5d77bb57cd578236e3054410b27c2743f",
@@ -8793,8 +8868,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL",
       "title_en": "VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL",
-      "title_zh": null,
-      "title_bilingual": "VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL"
+      "title_zh": "VidGuard-R1：通过推理 MLLM 和 RL 进行 AI 生成的视频检测和解释",
+      "title_bilingual": "VidGuard-R1：通过推理 MLLM 和 RL 进行 AI 生成的视频检测和解释 / VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL"
     },
     {
       "id": "a94925d768f480f6d5340a990e70181edae504ce",
@@ -8808,8 +8883,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "TerraCodec: Compressing Optical Earth Observation Data",
       "title_en": "TerraCodec: Compressing Optical Earth Observation Data",
-      "title_zh": null,
-      "title_bilingual": "TerraCodec: Compressing Optical Earth Observation Data"
+      "title_zh": "TerraCodec：压缩光学地球观测数据",
+      "title_bilingual": "TerraCodec：压缩光学地球观测数据 / TerraCodec: Compressing Optical Earth Observation Data"
     },
     {
       "id": "761cac063ad86629494909500f1c16aed0543064",
@@ -8823,8 +8898,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator",
       "title_en": "Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator",
-      "title_zh": null,
-      "title_bilingual": "Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator"
+      "title_zh": "通过将多视图重建网络拼接到视频生成器实现文本转 3D",
+      "title_bilingual": "通过将多视图重建网络拼接到视频生成器实现文本转 3D / Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator"
     },
     {
       "id": "b8bfe66cba8887d80b0234e988572a14b8135a4f",
@@ -8838,8 +8913,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights",
       "title_en": "DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights",
-      "title_zh": null,
-      "title_bilingual": "DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights"
+      "title_zh": "DRBD-Mamba 通过分析见解实现稳健、高效的脑肿瘤分割",
+      "title_bilingual": "DRBD-Mamba 通过分析见解实现稳健、高效的脑肿瘤分割 / DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights"
     },
     {
       "id": "a181727dddd1d9997f2dd228f6f5cc8561b21f38",
@@ -8853,8 +8928,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "MotionStream: Real-Time Video Generation with Interactive Motion Controls",
       "title_en": "MotionStream: Real-Time Video Generation with Interactive Motion Controls",
-      "title_zh": null,
-      "title_bilingual": "MotionStream: Real-Time Video Generation with Interactive Motion Controls"
+      "title_zh": "MotionStream：具有交互式运动控制的实时视频生成",
+      "title_bilingual": "MotionStream：具有交互式运动控制的实时视频生成 / MotionStream: Real-Time Video Generation with Interactive Motion Controls"
     },
     {
       "id": "75aa192c2bb7e3f86e9cd00aae555102cf1c68c1",
@@ -8868,8 +8943,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Fully Automatic Data Labeling for Ultrasound Screen Detection",
       "title_en": "Fully Automatic Data Labeling for Ultrasound Screen Detection",
-      "title_zh": null,
-      "title_bilingual": "Fully Automatic Data Labeling for Ultrasound Screen Detection"
+      "title_zh": "用于超声波屏幕检测的全自动数据标记",
+      "title_bilingual": "用于超声波屏幕检测的全自动数据标记 / Fully Automatic Data Labeling for Ultrasound Screen Detection"
     },
     {
       "id": "71f53d7aa9cfbe3c550e205e8f40241dcc66bcf6",
@@ -8883,8 +8958,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction",
       "title_en": "STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction",
-      "title_zh": null,
-      "title_bilingual": "STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction"
+      "title_zh": "STAvatar：用于单目 3D 头部头像重建的软绑定和时间密度控制",
+      "title_bilingual": "STAvatar：用于单目 3D 头部头像重建的软绑定和时间密度控制 / STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction"
     },
     {
       "id": "59e6b265f513ed776a656db03e8645677e2f2aae",
@@ -8898,8 +8973,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding",
       "title_en": "RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding",
-      "title_zh": null,
-      "title_bilingual": "RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding"
+      "title_zh": "RadarVLM：用于雷达场景理解的视觉语言模型方法",
+      "title_bilingual": "RadarVLM：用于雷达场景理解的视觉语言模型方法 / RadarVLM: A Vision-Language Model Approach for Radar Scene Understanding"
     },
     {
       "id": "af8a700047d89b509a2b96afe520d201070ae3a1",
@@ -8913,8 +8988,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "PowerCLIP: Powerset Alignment for Contrastive Pre-Training",
       "title_en": "PowerCLIP: Powerset Alignment for Contrastive Pre-Training",
-      "title_zh": null,
-      "title_bilingual": "PowerCLIP: Powerset Alignment for Contrastive Pre-Training"
+      "title_zh": "PowerCLIP：用于对比预训练的 Powerset 对齐",
+      "title_bilingual": "PowerCLIP：用于对比预训练的 Powerset 对齐 / PowerCLIP: Powerset Alignment for Contrastive Pre-Training"
     },
     {
       "id": "23e606de1a0a0ea2d97104b82987700aefa24a26",
@@ -8928,8 +9003,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "UniComp: Rethinking Video Compression Through Informational Uniqueness",
       "title_en": "UniComp: Rethinking Video Compression Through Informational Uniqueness",
-      "title_zh": null,
-      "title_bilingual": "UniComp: Rethinking Video Compression Through Informational Uniqueness"
+      "title_zh": "UniComp：通过信息唯一性重新思考视频压缩",
+      "title_bilingual": "UniComp：通过信息唯一性重新思考视频压缩 / UniComp: Rethinking Video Compression Through Informational Uniqueness"
     },
     {
       "id": "d8e8213f7c1f509149a8ec622b63c40422c5df3c",
@@ -8943,8 +9018,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation",
       "title_en": "NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation",
-      "title_zh": null,
-      "title_bilingual": "NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation"
+      "title_zh": "NeuralRemaster：用于结构对齐生成的保相扩散",
+      "title_bilingual": "NeuralRemaster：用于结构对齐生成的保相扩散 / NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation"
     },
     {
       "id": "4dff4de4939bb91d5678176e996ef9d3a2f667b9",
@@ -8958,8 +9033,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "EgoCampus: Egocentric Pedestrian Eye Gaze Model and Dataset",
       "title_en": "EgoCampus: Egocentric Pedestrian Eye Gaze Model and Dataset",
-      "title_zh": null,
-      "title_bilingual": "EgoCampus: Egocentric Pedestrian Eye Gaze Model and Dataset"
+      "title_zh": "EgoCampus：以自我为中心的行人视线模型和数据集",
+      "title_bilingual": "EgoCampus：以自我为中心的行人视线模型和数据集 / EgoCampus: Egocentric Pedestrian Eye Gaze Model and Dataset"
     },
     {
       "id": "4fffdd37b7951f910868397f5fbfee2853092fc4",
@@ -8973,8 +9048,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance",
       "title_en": "DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance",
-      "title_zh": null,
-      "title_bilingual": "DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance"
+      "title_zh": "DriverGaze360：具有对象级指导的全方位驾驶员注意力",
+      "title_bilingual": "DriverGaze360：具有对象级指导的全方位驾驶员注意力 / DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance"
     },
     {
       "id": "e9ee971c9837ff9a5711b1a1d71cbf26d69e4bbc",
@@ -8988,8 +9063,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking",
       "title_en": "ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking",
-      "title_zh": null,
-      "title_bilingual": "ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking"
+      "title_zh": "ViRC：通过推理分块增强视觉交错数学 CoT",
+      "title_bilingual": "ViRC：通过推理分块增强视觉交错数学 CoT / ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking"
     },
     {
       "id": "43a56b54b038ea95f3ba8898c45146b4c0c89f6e",
@@ -9003,8 +9078,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Parallel Diffusion Solver via Residual Dirichlet Policy Optimization",
       "title_en": "Parallel Diffusion Solver via Residual Dirichlet Policy Optimization",
-      "title_zh": null,
-      "title_bilingual": "Parallel Diffusion Solver via Residual Dirichlet Policy Optimization"
+      "title_zh": "通过残差狄利克雷策略优化的并行扩散求解器",
+      "title_bilingual": "通过残差狄利克雷策略优化的并行扩散求解器 / Parallel Diffusion Solver via Residual Dirichlet Policy Optimization"
     },
     {
       "id": "8e4acf85043b8061cbb257bf72de39550c649732",
@@ -9018,8 +9093,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation",
       "title_en": "PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation",
-      "title_zh": null,
-      "title_bilingual": "PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation"
+      "title_zh": "PhyGDPO：物理感知分组直接偏好优化，用于物理一致的文本到视频生成",
+      "title_bilingual": "PhyGDPO：物理感知分组直接偏好优化，用于物理一致的文本到视频生成 / PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation"
     },
     {
       "id": "cd1322d296115ca8ac3948c6b412d26298e6486d",
@@ -9033,8 +9108,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing",
       "title_en": "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing",
-      "title_zh": null,
-      "title_bilingual": "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing"
+      "title_zh": "MorphAny3D：释放 3D 变形中结构化潜在的力量",
+      "title_bilingual": "MorphAny3D：释放 3D 变形中结构化潜在的力量 / MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing"
     },
     {
       "id": "b5ce77a35a04016a6b1b47f08d0cbaa02a67d77a",
@@ -9048,8 +9123,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Agentic Very Long Video Understanding",
       "title_en": "Agentic Very Long Video Understanding",
-      "title_zh": null,
-      "title_bilingual": "Agentic Very Long Video Understanding"
+      "title_zh": "代理超长视频理解",
+      "title_bilingual": "代理超长视频理解 / Agentic Very Long Video Understanding"
     },
     {
       "id": "00444624d2cc1369d11c77d03c756a52dbccc199",
@@ -9063,8 +9138,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "DDP-WM: Disentangled Dynamics Prediction for Efficient World Models",
       "title_en": "DDP-WM: Disentangled Dynamics Prediction for Efficient World Models",
-      "title_zh": null,
-      "title_bilingual": "DDP-WM: Disentangled Dynamics Prediction for Efficient World Models"
+      "title_zh": "DDP-WM：高效世界模型的解缠结动力学预测",
+      "title_bilingual": "DDP-WM：高效世界模型的解缠结动力学预测 / DDP-WM: Disentangled Dynamics Prediction for Efficient World Models"
     },
     {
       "id": "f13d7eddc59d954adc75c6ddbda3c030d1301c99",
@@ -9078,8 +9153,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion",
       "title_en": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion",
-      "title_zh": null,
-      "title_bilingual": "Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion"
+      "title_zh": "Rolling Sink：桥接自回归视频扩散中的有限视野训练和开放式测试",
+      "title_bilingual": "Rolling Sink：桥接自回归视频扩散中的有限视野训练和开放式测试 / Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion"
     },
     {
       "id": "afa312cf70a25673855826210cd9ef91ec0e4416",
@@ -9093,8 +9168,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection",
       "title_en": "EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection",
-      "title_zh": null,
-      "title_bilingual": "EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection"
+      "title_zh": "EA-Swin：用于 AI 生成视频检测的与嵌入无关的 Swin Transformer",
+      "title_bilingual": "EA-Swin：用于 AI 生成视频检测的与嵌入无关的 Swin Transformer / EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection"
     },
     {
       "id": "f01969b72b3c915dd0463ec3f3b41cf3059920a1",
@@ -9108,8 +9183,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "CityGuard: Graph-Aware Private Descriptors for Bias-Resilient Identity Search Across Urban Cameras",
       "title_en": "CityGuard: Graph-Aware Private Descriptors for Bias-Resilient Identity Search Across Urban Cameras",
-      "title_zh": null,
-      "title_bilingual": "CityGuard: Graph-Aware Private Descriptors for Bias-Resilient Identity Search Across Urban Cameras"
+      "title_zh": "CityGuard：图形感知私有描述符，用于跨城市摄像头的抗偏差身份搜索",
+      "title_bilingual": "CityGuard：图形感知私有描述符，用于跨城市摄像头的抗偏差身份搜索 / CityGuard: Graph-Aware Private Descriptors for Bias-Resilient Identity Search Across Urban Cameras"
     },
     {
       "id": "f16e3d1cba6ffda49aed23f1a96f8ca8140df2cc",
@@ -9123,8 +9198,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis",
       "title_en": "CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis",
-      "title_zh": null,
-      "title_bilingual": "CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis"
+      "title_zh": "CARE：用于整个切片图像分析的具有自适应区域建模的分子引导基础模型",
+      "title_bilingual": "CARE：用于整个切片图像分析的具有自适应区域建模的分子引导基础模型 / CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis"
     },
     {
       "id": "3d4057fd9396b0c57646cefd132ee45caefcfecd",
@@ -9138,8 +9213,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters",
       "title_en": "When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters",
-      "title_zh": null,
-      "title_bilingual": "When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters"
+      "title_zh": "当 LoRA 背叛时：通过伪装成良性适配器为文本到图像模型添加后门",
+      "title_bilingual": "当 LoRA 背叛时：通过伪装成良性适配器为文本到图像模型添加后门 / When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters"
     },
     {
       "id": "e6e1b039ae18c45fb786fe50e323a49ec0788e06",
@@ -9153,8 +9228,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations",
       "title_en": "RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations",
-      "title_zh": null,
-      "title_bilingual": "RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations"
+      "title_zh": "RobustVisRAG：视觉退化下基于因果感知的视觉检索增强生成",
+      "title_bilingual": "RobustVisRAG：视觉退化下基于因果感知的视觉检索增强生成 / RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations"
     },
     {
       "id": "9357bc8725e21f78c2516ac5cb063b7e3c7978ae",
@@ -9168,8 +9243,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos",
       "title_en": "Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos",
-      "title_zh": null,
-      "title_bilingual": "Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos"
+      "title_zh": "学习驾驶是一份免费礼物：来自野外视频的大规模无标签自主预训练",
+      "title_bilingual": "学习驾驶是一份免费礼物：来自野外视频的大规模无标签自主预训练 / Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos"
     },
     {
       "id": "34950895929b934a789b75a5712d7fbff021bd74",
@@ -9183,8 +9258,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Diffusion Probe: Generated Image Result Prediction Using CNN Probes",
       "title_en": "Diffusion Probe: Generated Image Result Prediction Using CNN Probes",
-      "title_zh": null,
-      "title_bilingual": "Diffusion Probe: Generated Image Result Prediction Using CNN Probes"
+      "title_zh": "扩散探针：使用 CNN 探针生成图像结果预测",
+      "title_bilingual": "扩散探针：使用 CNN 探针生成图像结果预测 / Diffusion Probe: Generated Image Result Prediction Using CNN Probes"
     },
     {
       "id": "e98c750e75af6afa620afe6d0d379902d014a92a",
@@ -9198,8 +9273,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images",
       "title_en": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images",
-      "title_zh": null,
-      "title_bilingual": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images"
+      "title_zh": "UFO-4D：从两个图像进行未曝光的前馈 4D 重建",
+      "title_bilingual": "UFO-4D：从两个图像进行未曝光的前馈 4D 重建 / UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images"
     },
     {
       "id": "36fb011ea76dff020561a77c07e20b25de425729",
@@ -9213,8 +9288,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving",
       "title_en": "Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving",
-      "title_zh": null,
-      "title_bilingual": "Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving"
+      "title_zh": "Dr.Occ：用于自动驾驶的环视摄像头的深度和区域引导 3D 占用",
+      "title_bilingual": "Dr.Occ：用于自动驾驶的环视摄像头的深度和区域引导 3D 占用 / Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving"
     },
     {
       "id": "13904f7b6268193409151bf3ef414c335bb3351b",
@@ -9228,8 +9303,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels",
       "title_en": "Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels",
-      "title_zh": null,
-      "title_bilingual": "Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels"
+      "title_zh": "Track4World：前馈、以世界为中心的所有像素密集 3D 跟踪",
+      "title_bilingual": "Track4World：前馈、以世界为中心的所有像素密集 3D 跟踪 / Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels"
     },
     {
       "id": "b048cb88130eaacd00518b01132e22d38cf49d01",
@@ -9243,8 +9318,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation",
       "title_en": "Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation",
-      "title_zh": null,
-      "title_bilingual": "Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation"
+      "title_zh": "门控差分线性注意：用于高保真医疗分割的线性时间解码器",
+      "title_bilingual": "门控差分线性注意：用于高保真医疗分割的线性时间解码器 / Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation"
     },
     {
       "id": "695e40bf386646b7187b15d1cd4da02378c0ef92",
@@ -9258,8 +9333,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "MultiShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model",
       "title_en": "MultiShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model",
-      "title_zh": null,
-      "title_bilingual": "MultiShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model"
+      "title_zh": "MultiShadow：通过扩散模型进行图像合成的多对象阴影生成",
+      "title_bilingual": "MultiShadow：通过扩散模型进行图像合成的多对象阴影生成 / MultiShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model"
     },
     {
       "id": "2f5de4b6d803e80870885151530348fccf180631",
@@ -9273,8 +9348,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth",
       "title_en": "TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth",
-      "title_zh": null,
-      "title_bilingual": "TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth"
+      "title_zh": "TumorFlow：物理引导的胶质母细胞瘤生长的纵向 MRI 合成",
+      "title_bilingual": "TumorFlow：物理引导的胶质母细胞瘤生长的纵向 MRI 合成 / TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth"
     },
     {
       "id": "2bcf277f402d5e64c6ef8b88e36b46f125ec0e01",
@@ -9288,8 +9363,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction",
       "title_en": "NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction",
-      "title_zh": null,
-      "title_bilingual": "NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction"
+      "title_zh": "NOVA3R：用于 Amodal 3D 重建的非像素对齐视觉转换器",
+      "title_bilingual": "NOVA3R：用于 Amodal 3D 重建的非像素对齐视觉转换器 / NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction"
     },
     {
       "id": "3a69dc54d8e57e435fd2e3bb79ac499e95592548",
@@ -9303,8 +9378,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces",
       "title_en": "A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces",
-      "title_zh": null,
-      "title_bilingual": "A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces"
+      "title_zh": "联合检测腔隙和扩大的血管周围空间的统一框架",
+      "title_bilingual": "联合检测腔隙和扩大的血管周围空间的统一框架 / A Unified Framework for Joint Detection of Lacunes and Enlarged Perivascular Spaces"
     },
     {
       "id": "a9ce6de192c8f4845ba13293fccb94c4a4e21634",
@@ -9318,8 +9393,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On",
       "title_en": "Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On",
-      "title_zh": null,
-      "title_bilingual": "Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On"
+      "title_zh": "Gaussian Wardrobe：用于自由形式虚拟试穿的组合 3D 高斯化身",
+      "title_bilingual": "Gaussian Wardrobe：用于自由形式虚拟试穿的组合 3D 高斯化身 / Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On"
     },
     {
       "id": "1e9bb292ec1b48a2a3434e220a6df0fd525bf28c",
@@ -9333,8 +9408,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "MedFuncta: A Unified Framework for Learning Efficient Medical Neural Fields",
       "title_en": "MedFuncta: A Unified Framework for Learning Efficient Medical Neural Fields",
-      "title_zh": null,
-      "title_bilingual": "MedFuncta: A Unified Framework for Learning Efficient Medical Neural Fields"
+      "title_zh": "MedFuncta：学习高效医学神经场的统一框架",
+      "title_bilingual": "MedFuncta：学习高效医学神经场的统一框架 / MedFuncta: A Unified Framework for Learning Efficient Medical Neural Fields"
     },
     {
       "id": "a2080f983226a580d040368154c1663600c2ffff",
@@ -9348,8 +9423,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Graph-Based Multi-Modal Light-weight Network for Adaptive Brain Tumor Segmentation",
       "title_en": "Graph-Based Multi-Modal Light-weight Network for Adaptive Brain Tumor Segmentation",
-      "title_zh": null,
-      "title_bilingual": "Graph-Based Multi-Modal Light-weight Network for Adaptive Brain Tumor Segmentation"
+      "title_zh": "基于图的多模态轻量级网络，用于自适应脑肿瘤分割",
+      "title_bilingual": "基于图的多模态轻量级网络，用于自适应脑肿瘤分割 / Graph-Based Multi-Modal Light-weight Network for Adaptive Brain Tumor Segmentation"
     },
     {
       "id": "f9f5935aab8cc58e9c7f29010500ada3ece53647",
@@ -9363,8 +9438,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Observer-Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting",
       "title_en": "Observer-Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting",
-      "title_zh": null,
-      "title_bilingual": "Observer-Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting"
+      "title_zh": "观察者-演员：使用稀疏视图高斯泼溅的主动视觉模仿学习",
+      "title_bilingual": "观察者-演员：使用稀疏视图高斯泼溅的主动视觉模仿学习 / Observer-Actor: Active Vision Imitation Learning with Sparse-View Gaussian Splatting"
     },
     {
       "id": "e6a8286e324b649981430052aefae4259ec1eb3f",
@@ -9378,8 +9453,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models",
       "title_en": "Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models",
-      "title_zh": null,
-      "title_bilingual": "Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models"
+      "title_zh": "彻底改变混合精度量化：通过大型语言模型实现免训练自动代理发现",
+      "title_bilingual": "彻底改变混合精度量化：通过大型语言模型实现免训练自动代理发现 / Revolutionizing Mixed Precision Quantization: Towards Training-free Automatic Proxy Discovery via Large Language Models"
     },
     {
       "id": "a98bd5bb09b3bb2d6b2f32dfa92f26d5e087f860",
@@ -9393,8 +9468,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "MiTA Attention: Efficient Fast-Weight Scaling via a Mixture of Top-k Activations",
       "title_en": "MiTA Attention: Efficient Fast-Weight Scaling via a Mixture of Top-k Activations",
-      "title_zh": null,
-      "title_bilingual": "MiTA Attention: Efficient Fast-Weight Scaling via a Mixture of Top-k Activations"
+      "title_zh": "MiTA Attention：通过混合 Top-k 激活实现高效的快速权重缩放",
+      "title_bilingual": "MiTA Attention：通过混合 Top-k 激活实现高效的快速权重缩放 / MiTA Attention: Efficient Fast-Weight Scaling via a Mixture of Top-k Activations"
     },
     {
       "id": "e9240faff3c09bbfce56a2a6ff32f992b1a900d2",
@@ -9408,8 +9483,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition",
       "title_en": "Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition",
-      "title_zh": null,
-      "title_bilingual": "Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition"
+      "title_zh": "基于脑电图的驾驶疲劳识别的双向时间动力学建模",
+      "title_bilingual": "基于脑电图的驾驶疲劳识别的双向时间动力学建模 / Bidirectional Temporal Dynamics Modeling for EEG-based Driving Fatigue Recognition"
     },
     {
       "id": "cb49d4a62abe4e5826636556a95ce22fe578cf22",
@@ -9423,8 +9498,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks",
       "title_en": "Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks",
-      "title_zh": null,
-      "title_bilingual": "Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks"
+      "title_zh": "复杂系统动力学的机器学习：使用深度神经网络检测动态系统中的分叉",
+      "title_bilingual": "复杂系统动力学的机器学习：使用深度神经网络检测动态系统中的分叉 / Machine Learning for Complex Systems Dynamics: Detecting Bifurcations in Dynamical Systems with Deep Neural Networks"
     },
     {
       "id": "1b910441b87fdd8cc5864a85c93be16900c269b2",
@@ -9438,8 +9513,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Flowers: A Warp Drive for Neural PDE Solvers",
       "title_en": "Flowers: A Warp Drive for Neural PDE Solvers",
-      "title_zh": null,
-      "title_bilingual": "Flowers: A Warp Drive for Neural PDE Solvers"
+      "title_zh": "Flowers：神经偏微分方程求解器的曲速驱动",
+      "title_bilingual": "Flowers：神经偏微分方程求解器的曲速驱动 / Flowers: A Warp Drive for Neural PDE Solvers"
     },
     {
       "id": "87367863612f83e160383abaf4a6dd889aa9e917",
@@ -9453,8 +9528,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation",
       "title_en": "Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation",
-      "title_zh": null,
-      "title_bilingual": "Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation"
+      "title_zh": "站在巨人的肩膀上：通过多教师蒸馏重新思考脑电基础模型预训练",
+      "title_bilingual": "站在巨人的肩膀上：通过多教师蒸馏重新思考脑电基础模型预训练 / Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation"
     },
     {
       "id": "4f61c45ad82c9a2f233b38852bff2a760abceb29",
@@ -9468,8 +9543,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs",
       "title_en": "An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs",
-      "title_zh": null,
-      "title_bilingual": "An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs"
+      "title_zh": "用于大型知识图上的 GNN 模型的 LLM 引导查询感知推理系统",
+      "title_bilingual": "用于大型知识图上的 GNN 模型的 LLM 引导查询感知推理系统 / An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs"
     },
     {
       "id": "817c6952b71fc9da0d1bc9fb42b30180dbfdba0f",
@@ -9483,8 +9558,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Oracle-efficient Hybrid Learning with Constrained Adversaries",
       "title_en": "Oracle-efficient Hybrid Learning with Constrained Adversaries",
-      "title_zh": null,
-      "title_bilingual": "Oracle-efficient Hybrid Learning with Constrained Adversaries"
+      "title_zh": "与受限对手的 Oracle 高效混合学习",
+      "title_bilingual": "与受限对手的 Oracle 高效混合学习 / Oracle-efficient Hybrid Learning with Constrained Adversaries"
     },
     {
       "id": "0cb3c5e97734b4c65f6620ea731f72776aed32fd",
@@ -9498,8 +9573,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling",
       "title_en": "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling",
-      "title_zh": null,
-      "title_bilingual": "Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling"
+      "title_zh": "潜在粒子世界模型：以对象为中心的自监督随机动力学建模",
+      "title_bilingual": "潜在粒子世界模型：以对象为中心的自监督随机动力学建模 / Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling"
     },
     {
       "id": "d3480d6e10fafded4f17ef0ad432eb98d90094b5",
@@ -9513,8 +9588,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "A Late-Fusion Multimodal AI Framework for Privacy-Preserving Deduplication in National Healthcare Data Environments",
       "title_en": "A Late-Fusion Multimodal AI Framework for Privacy-Preserving Deduplication in National Healthcare Data Environments",
-      "title_zh": null,
-      "title_bilingual": "A Late-Fusion Multimodal AI Framework for Privacy-Preserving Deduplication in National Healthcare Data Environments"
+      "title_zh": "用于国家医疗数据环境中隐私保护重复数据删除的后期融合多模式人工智能框架",
+      "title_bilingual": "用于国家医疗数据环境中隐私保护重复数据删除的后期融合多模式人工智能框架 / A Late-Fusion Multimodal AI Framework for Privacy-Preserving Deduplication in National Healthcare Data Environments"
     },
     {
       "id": "068ff04bcda4db45fb0e7d4b8c4177c08018cef1",
@@ -9528,8 +9603,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion",
       "title_en": "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion",
-      "title_zh": null,
-      "title_bilingual": "PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion"
+      "title_zh": "偏微分方程基础模型——惯性约束聚变系统参数加速逆估计",
+      "title_bilingual": "偏微分方程基础模型——惯性约束聚变系统参数加速逆估计 / PDE foundation model-accelerated inverse estimation of system parameters in inertial confinement fusion"
     },
     {
       "id": "792820997c7111413a79233f8535d60933ca66a4",
@@ -9543,8 +9618,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "K-Means as a Radial Basis function Network: a Variational and Gradient-based Equivalence",
       "title_en": "K-Means as a Radial Basis function Network: a Variational and Gradient-based Equivalence",
-      "title_zh": null,
-      "title_bilingual": "K-Means as a Radial Basis function Network: a Variational and Gradient-based Equivalence"
+      "title_zh": "K-Means 作为径向基函数网络：基于变分和梯度的等价",
+      "title_bilingual": "K-Means 作为径向基函数网络：基于变分和梯度的等价 / K-Means as a Radial Basis function Network: a Variational and Gradient-based Equivalence"
     },
     {
       "id": "d8160588c1cc9a96f54b40f8b73bd5949d3c062f",
@@ -9558,8 +9633,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data",
       "title_en": "Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data",
-      "title_zh": null,
-      "title_bilingual": "Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data"
+      "title_zh": "使用合成激光雷达数据的深度回归直接估计树木体积和地上生物量",
+      "title_bilingual": "使用合成激光雷达数据的深度回归直接估计树木体积和地上生物量 / Direct Estimation of Tree Volume and Aboveground Biomass Using Deep Regression with Synthetic Lidar Data"
     },
     {
       "id": "ff4ed08e41408db08d78754ba941fc612385f0e3",
@@ -9573,8 +9648,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Engineering Regression Without Real-Data Training: Domain Adaptation for Tabular Foundation Models Using Multi-Dataset Embeddings",
       "title_en": "Engineering Regression Without Real-Data Training: Domain Adaptation for Tabular Foundation Models Using Multi-Dataset Embeddings",
-      "title_zh": null,
-      "title_bilingual": "Engineering Regression Without Real-Data Training: Domain Adaptation for Tabular Foundation Models Using Multi-Dataset Embeddings"
+      "title_zh": "无需真实数据训练的工程回归：使用多数据集嵌入的表格基础模型的域适应",
+      "title_bilingual": "无需真实数据训练的工程回归：使用多数据集嵌入的表格基础模型的域适应 / Engineering Regression Without Real-Data Training: Domain Adaptation for Tabular Foundation Models Using Multi-Dataset Embeddings"
     },
     {
       "id": "11625b9877dc3a47e6a9cd45b8dc67a93543c584",
@@ -9588,8 +9663,8 @@
       "last_seen_at": "2026-03-07T01:40:04.391Z",
       "title_original": "Implicit Bias and Loss of Plasticity in Matrix Completion: Depth Promotes Low-Rankness",
       "title_en": "Implicit Bias and Loss of Plasticity in Matrix Completion: Depth Promotes Low-Rankness",
-      "title_zh": null,
-      "title_bilingual": "Implicit Bias and Loss of Plasticity in Matrix Completion: Depth Promotes Low-Rankness"
+      "title_zh": "矩阵补全中的隐式偏差和可塑性损失：深度促进低秩",
+      "title_bilingual": "矩阵补全中的隐式偏差和可塑性损失：深度促进低秩 / Implicit Bias and Loss of Plasticity in Matrix Completion: Depth Promotes Low-Rankness"
     },
     {
       "id": "f0bf9e30952cb447c6b129493e1af13ed6079564",
@@ -12345,7 +12420,7 @@
       "url": "https://www.youtube.com/shorts/8__3ADJo6Sw",
       "published_at": "2026-03-05T15:14:55Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic vs The Pentagon, OpenAI's Mega Round, plus more...",
       "title_en": "Anthropic vs The Pentagon, OpenAI's Mega Round, plus more...",
       "title_zh": null,
@@ -12360,7 +12435,7 @@
       "url": "https://www.youtube.com/watch?v=7RHwE_M68BY",
       "published_at": "2026-03-05T15:07:07Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Anthropic vs The Pentagon: Who Wins? | OpenAI's $110BN Mega Round | Cursor Hits $2BN in ARR",
       "title_en": "Anthropic vs The Pentagon: Who Wins? | OpenAI's $110BN Mega Round | Cursor Hits $2BN in ARR",
       "title_zh": null,
@@ -13050,7 +13125,7 @@
       "url": "https://www.youtube.com/shorts/wXxx4dPhGcA",
       "published_at": "2026-03-04T13:22:03Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "How AI is Making monday.com More Efficient",
       "title_en": "How AI is Making monday.com More Efficient",
       "title_zh": null,
@@ -13260,7 +13335,7 @@
       "url": "https://www.youtube.com/shorts/XPBbsxwdx_U",
       "published_at": "2026-03-03T18:53:35Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The biggest opportunity (in our lifetime) in software",
       "title_en": "The biggest opportunity (in our lifetime) in software",
       "title_zh": null,
@@ -13410,7 +13485,7 @@
       "url": "https://www.youtube.com/shorts/ostwKhI-xpI",
       "published_at": "2026-03-03T05:00:58Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "People underestimate how hard software is to maintain",
       "title_en": "People underestimate how hard software is to maintain",
       "title_zh": null,
@@ -13770,7 +13845,7 @@
       "url": "https://www.youtube.com/shorts/xBWYZakjevQ",
       "published_at": "2026-03-02T18:25:20Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Vibe Coding ≠ Building Software",
       "title_en": "Vibe Coding ≠ Building Software",
       "title_zh": null,
@@ -14025,7 +14100,7 @@
       "url": "https://www.youtube.com/watch?v=1B3Ffo8snfY",
       "published_at": "2026-03-01T14:00:03Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)",
       "title_en": "Full Tutorial: Connect Claude Code to Google, Slack, and Reddit in 40 Min (Skills + MCPs)",
       "title_zh": null,
@@ -14055,7 +14130,7 @@
       "url": "https://www.youtube.com/watch?v=eh8bcBIAAFo",
       "published_at": "2026-03-01T13:30:39Z",
       "first_seen_at": "2026-03-07T01:40:04.391Z",
-      "last_seen_at": "2026-03-07T04:15:47.947Z",
+      "last_seen_at": "2026-03-07T08:16:09.760Z",
       "title_original": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
       "title_en": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
       "title_zh": null,
