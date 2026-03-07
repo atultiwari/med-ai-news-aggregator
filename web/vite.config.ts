@@ -27,7 +27,7 @@ export default defineConfig({
       },
     },
   ],
-  base: process.env.GITHUB_PAGES ? '/ai-news-aggregator/' : '/',
+  base: process.env.GITHUB_PAGES ? '/med-ai-news-aggregator/' : '/',
   server: {
     port: 3000,
     open: false,

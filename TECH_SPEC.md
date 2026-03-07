@@ -47,7 +47,7 @@ AI Healthcare News Aggregator is a **fully automated news aggregation system** f
 ### 1.3 Directory Structure
 
 ```
-ai-news-aggregator/
+med-ai-news-aggregator/
 ├── src/                          # Data fetching engine
 │   ├── index.ts                  # Main entry point (CLI + logic)
 │   ├── config.ts                 # Global configuration

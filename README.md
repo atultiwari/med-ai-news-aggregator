@@ -8,7 +8,7 @@
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?logo=node.js)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)](https://www.typescriptlang.org/)
 
-[🌐 Live Demo](https://atultiwari.github.io/ai-news-aggregator/) · [📝 Changelog](./CHANGELOG.md) · [📡 Sources](./recommended-sources.md)
+[🌐 Live Demo](https://atultiwari.github.io/med-ai-news-aggregator/) · [📝 Changelog](./CHANGELOG.md) · [📡 Sources](./recommended-sources.md)
 
 </div>
 
@@ -130,8 +130,8 @@ Papers With Code · GitHub Trending · Hugging Face Papers
 
 ```bash
 # Clone the project
-git clone https://github.com/SuYxh/ai-news-aggregator.git
-cd ai-news-aggregator
+git clone https://github.com/atultiwari/med-ai-news-aggregator.git
+cd med-ai-news-aggregator
 
 # Install dependencies
 pnpm install
@@ -192,7 +192,7 @@ Generated in the `data/` directory after each run:
 ## 🏗️ Project Structure
 
 ```
-ai-news-aggregator/
+med-ai-news-aggregator/
 ├── src/                      # Data fetching engine
 │   ├── index.ts              # Main entry point
 │   ├── config.ts             # Configuration & keywords
@@ -278,6 +278,6 @@ MIT
 
 **⭐ Star this repo if you find it useful!**
 
-[🐛 Report Issues](https://github.com/SuYxh/ai-news-aggregator/issues) · [💡 Feature Requests](https://github.com/SuYxh/ai-news-aggregator/issues)
+[🐛 Report Issues](https://github.com/atultiwari/med-ai-news-aggregator/issues) · [💡 Feature Requests](https://github.com/atultiwari/med-ai-news-aggregator/issues)
 
 </div>

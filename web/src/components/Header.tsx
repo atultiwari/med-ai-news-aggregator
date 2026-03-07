@@ -18,11 +18,11 @@ interface HeaderProps {
   isSwitching?: boolean
 }
 
-export function Header({ 
-  theme, 
+export function Header({
+  theme,
   toggleTheme,
-  generatedAt, 
-  windowHours, 
+  generatedAt,
+  windowHours,
   onShowSources,
   onShowHistory,
   onShowFavorites,
@@ -35,7 +35,7 @@ export function Header({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14 sm:h-16">
           <div className="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
-            <div 
+            <div
               className="w-8 h-8 sm:w-10 sm:h-10 rounded-xl bg-gradient-to-br from-primary-500 to-primary-600 flex items-center justify-center shadow-lg shadow-primary-500/25 flex-shrink-0 cursor-pointer"
               onClick={() => {
                 Analytics.trackLogo()
@@ -46,7 +46,7 @@ export function Header({
             </div>
             <div className="min-w-0 flex-1">
               <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
-                <div 
+                <div
                   onClick={() => {
                     Analytics.trackLogo()
                     onShowSources?.()
@@ -73,11 +73,10 @@ export function Header({
                       onTimeRangeChange('24h')
                     }}
                     disabled={isSwitching}
-                    className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${
-                      timeRange === '24h'
+                    className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${timeRange === '24h'
                         ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
                         : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-                    } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
+                      } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
                   >
                     {isSwitching && timeRange === '24h' && (
                       <Loader2 className="w-3 h-3 animate-spin" />
@@ -90,11 +89,10 @@ export function Header({
                       onTimeRangeChange('7d')
                     }}
                     disabled={isSwitching}
-                    className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${
-                      timeRange === '7d'
+                    className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${timeRange === '7d'
                         ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
                         : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-                    } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
+                      } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
                   >
                     {isSwitching && timeRange === '7d' && (
                       <Loader2 className="w-3 h-3 animate-spin" />
@@ -108,7 +106,7 @@ export function Header({
               </p>
             </div>
           </div>
-          
+
           <div className="flex items-center gap-1.5 sm:gap-3 flex-shrink-0">
             {generatedAt && (
               <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-800 px-3 py-1.5 rounded-full">
@@ -140,7 +138,7 @@ export function Header({
               <History className="w-4 h-4 sm:w-5 sm:h-5" />
             </button>
             <a
-              href="https://github.com/SuYxh/ai-news-aggregator"
+              href="https://github.com/atultiwari/med-ai-news-aggregator"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-ghost p-1.5 sm:p-2 rounded-lg"
