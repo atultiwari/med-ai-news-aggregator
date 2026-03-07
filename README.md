@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 AI Healthcare News Aggregator
+# 🏥 VRL Medical AI News
 
 **Real-time AI & Healthcare news — aggregating the best sources in medicine, pathology, and laboratory science**
 

@@ -102,7 +102,7 @@ function App() {
       <footer className="border-t border-slate-200 dark:border-slate-700 py-6 mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-slate-500 dark:text-slate-400">
-            AI Healthcare News · Aggregated from multiple sources
+            VRL Medical AI News · Aggregated from multiple sources
           </p>
         </div>
       </footer>

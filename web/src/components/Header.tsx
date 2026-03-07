@@ -62,7 +62,7 @@ export function Header({
                   }}
                 >
                   <h1 className="text-base sm:text-xl font-bold text-slate-900 dark:text-white whitespace-nowrap">
-                    AI Health News
+                    VRL Medical AI News
                   </h1>
                   <Info className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity hidden sm:block" />
                 </div>
@@ -74,8 +74,8 @@ export function Header({
                     }}
                     disabled={isSwitching}
                     className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${timeRange === '24h'
-                        ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
-                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
+                      : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
                       } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
                   >
                     {isSwitching && timeRange === '24h' && (
@@ -90,8 +90,8 @@ export function Header({
                     }}
                     disabled={isSwitching}
                     className={`px-2 sm:px-2.5 py-0.5 text-[10px] sm:text-xs font-medium rounded-full transition-all flex items-center gap-1 ${timeRange === '7d'
-                        ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
-                        : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                      ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
+                      : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
                       } ${isSwitching ? 'opacity-70 cursor-not-allowed' : ''}`}
                   >
                     {isSwitching && timeRange === '7d' && (
@@ -101,9 +101,14 @@ export function Header({
                   </button>
                 </div>
               </div>
-              <p className="text-[10px] sm:text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
-                Real-time AI healthcare & pathology news
-              </p>
+              <div className="flex flex-col">
+                <p className="text-[10px] sm:text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
+                  Real-time AI healthcare & pathology news
+                </p>
+                <p className="text-[9px] sm:text-[10px] text-slate-400 dark:text-slate-500 hidden sm:block italic italic-passion">
+                  Created with <span className="text-red-500">❤️</span> and passion by <span className="font-medium text-slate-500 dark:text-slate-400">Dr. Atul Tiwari</span>
+                </p>
+              </div>
             </div>
           </div>
 
