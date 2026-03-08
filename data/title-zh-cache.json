@@ -987,5 +987,8 @@
   "Autoresearch: Agents researching on single-GPU nanochat training automatically": "自动研究：代理自动研究单 GPU 纳米聊天训练",
   "Japan Approves Stem-Cell Treatments For Parkinson's, Heart Failure In World Firsts": "日本全球首例批准干细胞治疗帕金森病、心力衰竭",
   "OpenAI's Head of Robotics Resigns, Says Pentagon Deal Was 'Rushed Without the Guardrails Defined'": "OpenAI 机器人主管辞职，称五角大楼交易“在没有定义护栏的情况下仓促完成”",
-  "OpenAI’s robotics chief quits over the Pentagon deal": "OpenAI 机器人技术主管因五角大楼交易辞职"
+  "OpenAI’s robotics chief quits over the Pentagon deal": "OpenAI 机器人技术主管因五角大楼交易辞职",
+  "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers": "2026 年云虚拟机基准：7 个提供商的 44 种虚拟机类型的性能/价格",
+  "Lisp-style C++ template meta programming": "Lisp 风格的 C++ 模板元编程",
+  "How Anthropic's Claude Helped Mozilla Improve Firefox's Security": "Anthropic 的 Claude 如何帮助 Mozilla 提高 Firefox 的安全性"
 }
