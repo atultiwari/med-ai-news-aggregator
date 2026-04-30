@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-30T13:15:23.573Z",
+  "generated_at": "2026-04-30T15:42:21.648Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 491,
+      "duration_ms": 503,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 324,
+      "duration_ms": 337,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "YouTube",
       "ok": true,
       "item_count": 45,
-      "duration_ms": 327,
+      "duration_ms": 339,
       "error": null
     }
   ],
@@ -30,8 +30,8 @@
   "failed_sites": [],
   "zero_item_sites": [],
   "fetched_raw_items": 451,
-  "items_before_topic_filter": 2923,
-  "items_in_24h": 212,
+  "items_before_topic_filter": 2944,
+  "items_in_24h": 230,
   "rss_opml": {
     "enabled": false,
     "path": null,
