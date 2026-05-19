@@ -9565,5 +9565,15 @@
   "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)": "一名 CISA 承包商维护了一个现已离线的 GitHub 存储库，该存储库向 AWS GovCloud 账户和 CISA 系统公开了凭证； CISA 正在调查这一情况（Brian Krebs/Krebs on Security）",
   "Microsoft's finally letting you change the Copilot key back to what it was before Windows 11's AI assistant existed": "微软终于让你把副驾驶键改回 Windows 11 人工智能助手出现之前的样子",
   "Researchers have built a device that increases computer chip processing speed by 1000 times — but without generating extra heat, potentially ushering in a new generation of devices, but you won't get one for several years at least": "研究人员制造了一种设备，可以将计算机芯片的处理速度提高 1000 倍，但不会产生额外的热量，有可能迎来新一代设备，但至少在几年内你不会得到这样的设备",
-  "Satellites and AI used to track UK hedgehogs in bid to slow decline": "卫星和人工智能用于追踪英国刺猬以减缓其数量下降"
+  "Satellites and AI used to track UK hedgehogs in bid to slow decline": "卫星和人工智能用于追踪英国刺猬以减缓其数量下降",
+  "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap": "LLMCap – 当您达到美元上限时硬停止 LLM API 调用的代理",
+  "Sieve – scans Cursor/Claude chat history for leaked API keys": "Sieve – 扫描 Cursor/Claude 聊天记录以查找泄露的 API 密钥",
+  "The American Rebellion Against AI Is Gaining Steam": "美国对人工智能的反抗正在升温",
+  "The last six months in LLMs in five minutes": "五分钟了解法学硕士最后六个月的情况",
+  "The Dark Side of Anthropic’s Growth": "Anthropic 发展的阴暗面",
+  "Meta is reportedly 'reassigning' 7,000 employees to AI-focused roles": "据报道，Meta 正在“重新分配” 7,000 名员工以专注于人工智能的角色",
+  "Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom: former DeepMind researchers founded 12+ companies since 2021, raising $14B+ (Financial Times)": "资料来源：Demis Hassabis 是 Anthropic 的天使投资人； PitchBook 和 Dealroom：前 DeepMind 研究人员自 2021 年以来创立了 12 家以上公司，筹集了 14B+ 美元（金融时报）",
+  "Sources: Intel asks its leading PC partners, including those in the US, China, and Taiwan, to use more 18A CPUs, citing better supply than chips on older nodes (Nikkei Asia)": "资料来源：英特尔要求其主要 PC 合作伙伴（包括美国、中国和台湾的合作伙伴）使用更多 18A CPU，理由是比旧节点上的芯片供应更好（日经亚洲）",
+  "An overview of macro tech trends: capex explosion, unprecedented surge in chip demand, supply chain bottlenecks, model commoditization, AI automation, and more (Benedict Evans)": "宏观技术趋势概述：资本支出爆炸、芯片需求空前激增、供应链瓶颈、模型商品化、人工智能自动化等（Benedict Evans）",
+  "Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash (Bloomberg)": "资料来源：最大的模拟芯片制造商之一 Analog Devices 正在洽谈以 1.5B 美元现金收购 Empower，该公司生产用于调节电压的芯片（彭博社）"
 }
